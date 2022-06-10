@@ -1,8 +1,6 @@
----
-layout: default
----
-
-
+```
+It's me.
+```
 ## Education
 - School of Metallurgical and Ecological Engineering, University of Science and Technology, Beijing
   - Ph.D., 2007-2012
@@ -120,6 +118,4 @@ end
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-```
-The final element.
-```
+
