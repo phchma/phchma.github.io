@@ -1,6 +1,6 @@
-```
-It's me.
-```
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 ## Education
 - School of Metallurgical and Ecological Engineering, <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing">University of Science and Technology, Beijing</a>
   - Ph.D., 2007-2012
@@ -14,13 +14,7 @@ It's me.
 - Institute of Applied Physics, TU Wien
   - Visiting Scholar with Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
-
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
