@@ -1,7 +1,7 @@
 ```
 Use PHysics, Chemistry, and Mathematics to explore funs in metallurgy
 ```
-**Phone**: (+86 23) 6511 2631
+**Phone**: (+86) 23 6511 2631
 
 **Email**: jxu at cqu.edu.cn (_replace at with @_)
 
