@@ -1,10 +1,16 @@
 
 ## Education
+* 2012 Ph. D., majored in Ferrous Metallurgy, University of Science and Technology, Beijing
+* 2007 B. E., majored in Metallurgical Engineering, University of Science and Technology, Beijing
 
-*   2012 Ph. D., majored in Ferrous Metallurgy, University of Science and Technology, Beijing.
-*   2007 B. E., majored in Metallurgical Engineering, University of Science and Technology, Beijing.
+## Work Experience
+- College of Materials Science and Engineering, Chongqing University
+  - Professor, 2019-present
+  - Associate Professor, 2014-2019
+  - Assistant Professor, 2012-2014
 
-## Header 2
+
+
 
 > This is a blockquote following a header.
 >
