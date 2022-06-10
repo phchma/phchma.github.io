@@ -13,8 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Education
 
-*   2012 Ph. D., majored in Ferrous Metallurgy, University of Science and Technology Beijing.
-*   2007 B. E., majored in Metallurgical Engineering, University of Science and Technology Beijing.
+*   2012 Ph. D., majored in Ferrous Metallurgy, University of Science and Technology, Beijing.
+*   2007 B. E., majored in Metallurgical Engineering, University of Science and Technology, Beijing.
 
 ## Header 2
 
