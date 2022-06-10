@@ -52,11 +52,10 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 
 ## Alumni
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|:-------------|:------------------|
+| Zhaowen Hu (2013-2016)           | Huayou Cobalt |
+| Dongdong Wang (2014-2017) | Baosteel International   | 
+| ok           | good `oreos`      | 
+| ok           | good `zoute` drop |
 
 * * *
