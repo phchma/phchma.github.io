@@ -12,7 +12,7 @@ It's me.
   - Associate Professor, 2014-2019
   - Assistant Professor, 2012-2014
 - Institute of Applied Physics, TU Wien
-  - Visiting Scholar, 2018-2019
+  - Visiting Scholar with Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
 
 
