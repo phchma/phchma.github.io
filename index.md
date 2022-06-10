@@ -33,10 +33,22 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
   - in sintering process
 
 ## Awards and Honors
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
+*   2021  Third Prize of Teaching Achievement Award of Chongqing 
+*   2020  Second Prize of Metallurgical Science and Technology
+*   2020  Chongqing Talents: Exceptional Young Talents Project
+*   2019  Metallurgical Dean Award of National Universities
+*   2018  Excellent Young Teacher of CQU
+*   2014  First Prize of Basic Teaching Skill Contest for Young Teacher of CQU
+*   2012  Excellent Graduate Student of Beijing Municipality
+*   2011  Excellent Doctoral Dissertation of USTB
+*   2011  Top Ten Academic Stars of USTB: Nomination Award
+*   2007  Excellent Student of Beijing Municipality
+*   2007  Excellent Bachelor Thesis of USTB
+*   2007  People’s Top Class Scholarship
+*   2006  Dead Award of School of Metallurgical and Ecological Engineering, USTB
+*   2006  PRCO Scholarship
+*   2005  POSCO Scholarship
 
 ## Alumni
 
