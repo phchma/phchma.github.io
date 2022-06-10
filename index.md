@@ -1,7 +1,5 @@
 
 ## Education
-* 2012 Ph. D., majored in Ferrous Metallurgy, University of Science and Technology, Beijing
-* 2007 B. E., majored in Metallurgical Engineering, University of Science and Technology, Beijing
 - School of Metallurgical and Ecological Engineering, University of Science and Technology, Beijing
   - Ph.D., 2007-2012
   - Bachelor, 2003-2007
@@ -11,7 +9,8 @@
   - Professor, 2019-present
   - Associate Professor, 2014-2019
   - Assistant Professor, 2012-2014
-
+- Institute of Applied Physics, TU Wien
+  - Visiting Scholar, 2018-2019
 
 
 
