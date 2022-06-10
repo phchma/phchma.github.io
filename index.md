@@ -52,10 +52,10 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 
 ## Alumni
 
-|:--------------------------|:--------------------------------|
+|:----------------------|:--------------------------------|
 | Zhaowen Hu (2013-2016)    | Huayou Cobalt |
 | Dongdong Wang (2014-2017) | Baosteel International   | 
 | Yang Xu (2015-2018)       | BYD Auto      | 
 | Kaihui Ma (2016-2021)     | Pangang Group Research Institute |
-
-
+| Junyi Deng (2018-2021)    | PhD candidate of Tohoku University |
+| Yizhang Yang (2019-2022)     | SinoTruk |
