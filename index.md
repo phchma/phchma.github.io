@@ -22,7 +22,7 @@
 I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-solid interfacial reaction** and **Process granular segregation** systems. 
 
 Here are some selected publications:
-  - **2021**Utilization and impacts of hydrogen in the ironmaking processes: A review from lab-scale basics to industrial practices, International Journal of Hydrogen Energy 46 (52), 26646-26664, <a href="https://doi.org/10.1016/j.ijhydene.2021.05.095">[read more]</a>
+  - Utilization and impacts of hydrogen in the ironmaking processes: A review from lab-scale basics to industrial practices, International Journal of Hydrogen Energy 46 (52) (2021), 26646-26664 <a href="https://doi.org/10.1016/j.ijhydene.2021.05.095">[read more]</a>
 
   - Granular segregation in burden distribution process
 
