@@ -52,10 +52,10 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 
 ## Alumni
 
-|:-------------|:------------------|
-| Zhaowen Hu (2013-2016)           | Huayou Cobalt |
+|:--------------------------|:--------------------------------|
+| Zhaowen Hu (2013-2016)    | Huayou Cobalt |
 | Dongdong Wang (2014-2017) | Baosteel International   | 
-| ok           | good `oreos`      | 
-| ok           | good `zoute` drop |
+| Yang Xu (2015-2018)       | BYD Auto      | 
+| Kaihui Ma (2016-2021)     | Pangang Group Research Institute |
 
-* * *
+
