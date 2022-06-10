@@ -1,8 +1,8 @@
 ```
-Grain Buds（小满）
+Grain Buds
+小满
 ```
 > Grain Buds.
->
 > 小满.
 
 ## Education
