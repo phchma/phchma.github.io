@@ -1,6 +1,8 @@
 > Grain Buds.
 > 小满.
 
+**Phone**: (+86 23) 6511 2631
+
 **Email**: jxu at cqu.edu.cn (_replace at with @_)
 
 ## Education
@@ -17,21 +19,11 @@
   - Visiting Scholar with Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
 ## Research
+I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-solid interfacial reaction** and **Process granular segregation** systems. 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Here are some topics:
+  - Relation between carbon monooxide and hydrogen in the gaseous reduction of iron oxides
+  - 
 
 #### Header 4
 
