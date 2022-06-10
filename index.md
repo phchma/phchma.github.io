@@ -22,9 +22,13 @@
 I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-solid interfacial reaction** and **Process granular segregation** systems. 
 
 Here are some selected publications:
-  - Utilization and impacts of hydrogen in the ironmaking processes: A review from lab-scale basics to industrial practices, International Journal of Hydrogen Energy 46 (52) (2021), 26646-26664 <a href="https://doi.org/10.1016/j.ijhydene.2021.05.095">[read more]</a>
+  - Utilization and impacts of hydrogen in the ironmaking processes: A review from lab-scale basics to industrial practices, <a href="https://doi.org/10.1016/j.ijhydene.2021.05.095">International Journal of Hydrogen Energy 46 (52) (2021), 26646-26664</a>
+  - Image-based prediction of granular flow behaviors in a wedge-shaped hopper by combing DEM and deep learning methods, <a href="https://doi.org/10.1016/j.powtec.2021.01.041">Powder Technology 383 (2021), 159-166</a>
+  - Theoretical Parameter-Free Analysis Model for Temperature-Programmed Desorption (TPD) Spectra, <a href="https://doi.org/10.1021/acsomega.9b03867">ACS omega 5 (8) (2021), 4148-4157</a>
+  - Utilization and impacts of hydrogen in the ironmaking processes: A review from lab-scale basics to industrial practices, <a href="https://doi.org/10.1016/j.ijhydene.2021.05.095">International Journal of Hydrogen Energy 46 (52) (2021), 26646-26664</a>
+  - Utilization and impacts of hydrogen in the ironmaking processes: A review from lab-scale basics to industrial practices, <a href="https://doi.org/10.1016/j.ijhydene.2021.05.095">International Journal of Hydrogen Energy 46 (52) (2021), 26646-26664</a>
 
-  - Granular segregation in burden distribution process
+ 
 
 #### Header 4
 
