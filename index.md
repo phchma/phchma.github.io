@@ -2,6 +2,9 @@
 ## Education
 * 2012 Ph. D., majored in Ferrous Metallurgy, University of Science and Technology, Beijing
 * 2007 B. E., majored in Metallurgical Engineering, University of Science and Technology, Beijing
+- School of Metallurgical and Ecological Engineering, University of Science and Technology, Beijing
+  - Ph.D., 2007-2012
+  - Bachelor, 2003-2007
 
 ## Work Experience
 - College of Materials Science and Engineering, Chongqing University
