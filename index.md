@@ -1,3 +1,7 @@
+---
+layout: default
+---
+There is something!
 
 ## Education
 - School of Metallurgical and Ecological Engineering, University of Science and Technology, Beijing
