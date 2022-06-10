@@ -1,6 +1,5 @@
-```
-Use PHysics, Chemistry, and Mathematics to explore funs in metallurgy
-```
+Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurgy
+
 **Phone**: (+86) 23 6511 2631
 
 **Email**: jxu at cqu.edu.cn (_replace at with @_)
@@ -52,7 +51,6 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 
 ## Alumni
 
-|:----|:------|:-------------------|
 | Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt |
 | Dongdong Wang |M.E.(2014-2017) | Baosteel International   | 
 | Yang Xu |M.E.(2015-2018)       | BYD Auto      | 
