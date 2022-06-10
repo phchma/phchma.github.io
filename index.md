@@ -1,5 +1,6 @@
 > Grain Buds.
 > 小满.
+**Email**: jxu at cqu.edu.cn (_replace at with @_)
 
 ## Education
 - School of Metallurgical and Ecological Engineering, <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing">University of Science and Technology, Beijing</a>
@@ -14,7 +15,7 @@
 - Institute of Applied Physics, TU Wien
   - Visiting Scholar with Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
-## Header 3
+## Research
 
 ```js
 // Javascript code with syntax highlighting.
