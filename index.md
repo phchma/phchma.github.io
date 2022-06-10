@@ -21,9 +21,9 @@
 ## Research
 I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-solid interfacial reaction** and **Process granular segregation** systems. 
 
-- Here are some topics:
+Here are some topics:
   - Relation between carbon monooxide and hydrogen in the gaseous reduction of iron oxides
-  - 
+  - Granular segregation in burden distribution process
 
 #### Header 4
 
