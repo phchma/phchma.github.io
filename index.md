@@ -2,7 +2,7 @@
 It's me.
 ```
 ## Education
-- School of Metallurgical and Ecological Engineering, University of Science and Technology, Beijing
+- School of Metallurgical and Ecological Engineering, <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing">University of Science and Technology, Beijing</a>
   - Ph.D., 2007-2012
   - Bachelor, 2003-2007
 
