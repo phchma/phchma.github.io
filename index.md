@@ -7,7 +7,7 @@ It's me.
   - Bachelor, 2003-2007
 
 ## Work Experience
-- College of Materials Science and Engineering, Chongqing University
+- College of Materials Science and Engineering, <a href="https://en.wikipedia.org/wiki/Chongqing_University">Chongqing University</a>
   - Professor, 2019-present
   - Associate Professor, 2014-2019
   - Assistant Professor, 2012-2014
