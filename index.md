@@ -1,8 +1,6 @@
->  
-> Grain Buds.
-> 小满.
->  
-
+```
+Use PHysics, Chemistry, and Mathematics to explore funs in metallurgy
+```
 **Phone**: (+86 23) 6511 2631
 
 **Email**: jxu at cqu.edu.cn (_replace at with @_)
@@ -61,3 +59,8 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 | Kaihui Ma |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute |
 | Junyi Deng |M.E.(2018-2021)    | PhD candidate of Tohoku University |
 | Yizhang Yang |M.E.(2019-2022)     | SinoTruk |
+
+>  
+> Grain Buds.
+> 小满.
+>  
