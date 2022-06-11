@@ -1,4 +1,4 @@
-Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurgy
+Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurgy
 
 **Phone**: (+86) 23 6511 2631
 
