@@ -21,7 +21,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - Institute of Applied Physics, <a href="https://en.wikipedia.org/wiki/TU_Wien">TU Wien</a>
   - Visiting Scholar with Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
-### Research
+### Research Interests
 
 I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-solid interfacial reaction** and **Process granular segregation** systems. 
 
