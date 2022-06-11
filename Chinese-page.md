@@ -32,14 +32,14 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurg
   - 在烧结布料过程
 
 ## 一些成绩
-*   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
-*   2021  Third Prize of Teaching Achievement Award of Chongqing 
-*   2020  Second Prize of Metallurgical Science and Technology
-*   2020  Chongqing Talents: Exceptional Young Talents Project
-*   2019  Metallurgical Dean Award of National Universities
-*   2018  Excellent Young Teacher of CQU
-*   2014  First Prize of Basic Teaching Skill Contest for Young Teacher of CQU
-*   2012  Excellent Graduate Student of Beijing Municipality
+*   2021  重庆市高校教师教学创新大赛正高组二等奖 
+*   2021  重庆市教学成果奖三等奖（排名第6） 
+*   2020  冶金科学技术奖二等奖（排名第4）
+*   2020  重庆英才：青年拔尖人才计划
+*   2019  全国高校冶金院长奖
+*   2018  重庆大学优秀青年教师
+*   2014  重庆大学青年教师教学基本功比赛一等奖
+*   2012  北京市优秀毕业生
 *   2012  北科大优秀博士学位论文
 *   2011  北科大十大学术之星：提名奖
 *   2007  北京市三好学生
@@ -49,11 +49,11 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurg
 *   2006  濮耐PRCO奖学金
 *   2005  浦项POSCO奖学金
 
-## Alumni
+## 毕业学生
 
-| Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt |
-| Dongdong Wang |M.E.(2014-2017) | Baosteel International   | 
-| Yang Xu |M.E.(2015-2018)       | BYD Auto      | 
-| Kaihui Ma |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute |
-| Junyi Deng |M.E.(2018-2021)    | PhD candidate of Tohoku University |
-| Yizhang Yang |M.E.(2019-2022)     | SinoTruk |
+| 胡招文 |M.E.(2013-2016)    | Huayou Cobalt |
+| 王冬东 |M.E.(2014-2017) | Baosteel International   | 
+| 徐扬 |M.E.(2015-2018)       | BYD Auto      | 
+| 马凯辉 |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute |
+| 邓君一 |M.E.(2018-2021)    | PhD candidate of Tohoku University |
+| 杨宜璋 |M.E.(2019-2022)     | SinoTruk |
