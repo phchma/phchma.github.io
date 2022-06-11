@@ -21,7 +21,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - <a href="http://www.tuwien.ac.at/">维也纳技术大学</a>应用物理系
   - 访问学者，合作导师Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
-### 3.&nbsp;研究兴趣
+### Research Interests 研究兴趣
 
 我主要围绕 **气固界面反应** 和 **过程颗粒偏析** 两个方向开展尺度间隙的连接研究。
 
@@ -33,7 +33,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - 在无料钟高炉炉顶布料过程
   - 在烧结布料过程
 
-### 4.&nbsp;一些成绩
+### Awards and Honors 一些成绩
 *   2021  重庆市高校教师教学创新大赛正高组二等奖 
 *   2021  重庆市教学成果奖三等奖（排名第6） 
 *   2020  冶金科学技术奖二等奖（排名第4）
@@ -51,7 +51,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 *   2006  濮耐PRCO奖学金
 *   2005  浦项POSCO奖学金
 
-### 5.&nbsp;毕业学生
+### Alumni 毕业学生
 
 | 胡招文 |硕士(2013-2016) | 华友钴业 |
 | 王冬东 |硕士(2014-2017) | 宝钢国际 | 
