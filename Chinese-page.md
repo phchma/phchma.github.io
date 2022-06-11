@@ -6,13 +6,13 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 [English Ver.](./index.html)
 
-## Edu 教育背景
+### Edu 教育背景
 
 - <a href="https://www.ustb.edu.cn/">北京科技大学</a>冶金与生态工程学院
   - 工学博士, 2007-2012
   - 工学学士, 2003-2007
 
-## 工作经历
+### Work 工作经历
 
 - <a href="https://www.cqu.edu.cn/">重庆大学</a>材料科学与工程学院
   - 教授, 2019至今
