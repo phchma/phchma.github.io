@@ -40,7 +40,7 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 *   2018  Excellent Young Teacher of CQU
 *   2014  First Prize of Basic Teaching Skill Contest for Young Teacher of CQU
 *   2012  Excellent Graduate Student of Beijing Municipality
-*   2011  Excellent Doctoral Dissertation of USTB
+*   2012  Excellent Doctoral Dissertation of USTB
 *   2011  Top Ten Academic Stars of USTB: Nomination Award
 *   2007  Excellent Student of Beijing Municipality
 *   2007  Excellent Bachelor Thesis of USTB
