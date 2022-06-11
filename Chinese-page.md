@@ -6,13 +6,13 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 [English Ver.](./index.html)
 
-### 1.&nbsp;教育背景
+### 教育背景 Education
 
 - <a href="https://www.ustb.edu.cn/">北京科技大学</a>冶金与生态工程学院
   - 工学博士, 2007-2012
   - 工学学士, 2003-2007
 
-### 2.&nbsp;工作经历
+### 工作经历 Work Experience
 
 - <a href="https://www.cqu.edu.cn/">重庆大学</a>材料科学与工程学院
   - 教授, 2019至今
@@ -34,8 +34,8 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - 在烧结布料过程
 
 ### 4.&nbsp;一些成绩
-*   2021&nbsp;重庆市高校教师教学创新大赛正高组二等奖 
-*   2021&nbsp;&nbsp;重庆市教学成果奖三等奖（排名第6） 
+*   2021  重庆市高校教师教学创新大赛正高组二等奖 
+*   2021  重庆市教学成果奖三等奖（排名第6） 
 *   2020  冶金科学技术奖二等奖（排名第4）
 *   2020  重庆英才：青年拔尖人才计划
 *   2019  全国高校冶金院长奖
