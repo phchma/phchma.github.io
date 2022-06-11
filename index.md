@@ -4,7 +4,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurg
 
 **Email**: jxu at cqu.edu.cn (_replace at with @_)
 
-[in Chinese/中文版](./Chinese-page.html)
+[中文版](./Chinese-page.html)
 
 ## Education
 
