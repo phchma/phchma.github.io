@@ -1,0 +1,59 @@
+Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurgy
+
+**Phone**: (+86) 23 6511 2631
+
+**Email**: jxu at cqu.edu.cn (_replace at with @_)
+
+## 教育背景
+
+- <a href="https://www.ustb.edu.cn/">北京科技大学</a>冶金与生态工程学院
+  - 工学博士, 2007-2012
+  - 工学学士, 2003-2007
+
+## 工作经历
+
+- <a href="https://www.cqu.edu.cn/">重庆大学</a>材料科学与工程学院
+  - 教授, 2019至今
+  - 副教授, 2014-2019
+  - 讲师, 2012-2014
+- <a href="http://www.tuwien.ac.at/">维也纳技术大学</a>应用物理系
+  - 访问学者，合作导师Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
+
+## 研究兴趣
+
+我主要围绕**气固界面反应** 和 **过程颗粒偏析** 两个方向开展尺度间隙的连接研究。
+
+- 气固界面反应
+  - 铁氧化物气基还原中CO与H2的相互关系
+  - 升温过程中还原与成渣反应的相互关系
+  - 铁晶须的生长
+- 过程颗粒偏析
+  - 在无料钟高炉炉顶布料过程
+  - 在烧结布料过程
+
+## 一些成绩
+*   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
+*   2021  Third Prize of Teaching Achievement Award of Chongqing 
+*   2020  Second Prize of Metallurgical Science and Technology
+*   2020  Chongqing Talents: Exceptional Young Talents Project
+*   2019  Metallurgical Dean Award of National Universities
+*   2018  Excellent Young Teacher of CQU
+*   2014  First Prize of Basic Teaching Skill Contest for Young Teacher of CQU
+*   2012  Excellent Graduate Student of Beijing Municipality
+*   2012  北科大优秀博士学位论文
+*   2011  北科大十大学术之星：提名奖
+*   2007  北京市三好学生
+*   2007  北科大优秀本科毕业设计（论文）
+*   2007  人民特种奖学金
+*   2006  北科大冶金与生态工程学院院长奖
+*   2006  濮耐PRCO奖学金
+*   2005  浦项POSCO奖学金
+
+## Alumni
+
+| Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt |
+| Dongdong Wang |M.E.(2014-2017) | Baosteel International   | 
+| Yang Xu |M.E.(2015-2018)       | BYD Auto      | 
+| Kaihui Ma |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute |
+| Junyi Deng |M.E.(2018-2021)    | PhD candidate of Tohoku University |
+| Yizhang Yang |M.E.(2019-2022)     | SinoTruk |
