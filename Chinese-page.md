@@ -51,9 +51,10 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurg
 
 ## 毕业学生
 
-| 胡招文 |M.E.(2013-2016)    | Huayou Cobalt |
-| 王冬东 |M.E.(2014-2017) | Baosteel International   | 
-| 徐扬 |M.E.(2015-2018)       | BYD Auto      | 
-| 马凯辉 |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute |
-| 邓君一 |M.E.(2018-2021)    | PhD candidate of Tohoku University |
-| 杨宜璋 |M.E.(2019-2022)     | SinoTruk |
+| 胡招文 |硕士(2013-2016)    | 华友钴业 |
+| 王冬东 |硕士(2014-2017) | 宝钢国际 | 
+| 徐扬 |硕士(2015-2018)       | 比亚迪汽车 | 
+| 马凯辉 |硕士&博士(2016-2021)     | 攀钢研究院 |
+| 廖哲晗 |硕士(2017-2020)     | 本校攻读博士学位 |
+| 邓君一 |硕士(2018-2021)    | 日本东北大学攻读博士学位 |
+| 杨宜璋 |硕士(2019-2022)     | 中国重汽 |
