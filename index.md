@@ -55,5 +55,6 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 | Dongdong Wang |M.E.(2014-2017) | Baosteel International   | 
 | Yang Xu |M.E.(2015-2018)       | BYD Auto      | 
 | Kaihui Ma |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute |
+| Zhehan Liao |M.E.(2017-2020)     | PhD candidate of Chongqing University |
 | Junyi Deng |M.E.(2018-2021)    | PhD candidate of Tohoku University |
 | Yizhang Yang |M.E.(2019-2022)     | SinoTruk |
