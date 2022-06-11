@@ -6,13 +6,13 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 [English Ver.](./index.html)
 
-### 教育背景/Education
+### 教育背景 / Education
 
 - <a href="https://www.ustb.edu.cn/">北京科技大学</a>冶金与生态工程学院
   - 工学博士, 2007-2012
   - 工学学士, 2003-2007
 
-### 工作经历/Work Experience
+### 工作经历 / Work Experience
 
 - <a href="https://www.cqu.edu.cn/">重庆大学</a>材料科学与工程学院
   - 教授, 2019至今
@@ -55,7 +55,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 | 胡招文 |硕士(2013-2016) | 华友钴业 |
 | 王冬东 |硕士(2014-2017) | 宝钢国际 | 
-| 徐==扬 |硕士(2015-2018)   | 比亚迪汽车 | 
+| 徐扬 |硕士(2015-2018)   | 比亚迪汽车 | 
 | 马凯辉 |硕士&博士(2016-2021) | 攀钢研究院 |
 | 廖哲晗 |硕士(2017-2020) | 本校攻读博士学位 |
 | 邓君一 |硕士(2018-2021) | 日本东北大学攻读博士学位 |
