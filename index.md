@@ -6,13 +6,13 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 [中文版](./Chinese-page.html)
 
-## Education
+### Education
 
 - School of Metallurgical and Ecological Engineering, <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing">University of Science and Technology, Beijing</a>
   - Ph.D., 2007-2012
   - Bachelor, 2003-2007
 
-## Work Experience
+### Work Experience
 
 - College of Materials Science and Engineering, <a href="https://en.wikipedia.org/wiki/Chongqing_University">Chongqing University</a>
   - Professor, 2019-present
@@ -21,7 +21,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - Institute of Applied Physics, <a href="https://en.wikipedia.org/wiki/TU_Wien">TU Wien</a>
   - Visiting Scholar with Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
-## Research
+### Research
 
 I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-solid interfacial reaction** and **Process granular segregation** systems. 
 
@@ -33,7 +33,7 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
   - in bell-less top blast furnace process
   - in sintering process
 
-## Awards and Honors
+### Awards and Honors
 *   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
 *   2021  Third Prize of Teaching Achievement Award of Chongqing 
 *   2020  Second Prize of Metallurgical Science and Technology
@@ -51,7 +51,7 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 *   2006  PRCO Scholarship
 *   2005  POSCO Scholarship
 
-## Alumni
+### Alumni
 
 | Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt |
 | Dongdong Wang |M.E.(2014-2017) | Baosteel International   | 
