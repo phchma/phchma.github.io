@@ -6,7 +6,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 [English Ver.](./index.html)
 
-### 1&nbsp;教育背景
+### 1.&nbsp;教育背景
 
 - <a href="https://www.ustb.edu.cn/">北京科技大学</a>冶金与生态工程学院
   - 工学博士, 2007-2012
@@ -21,7 +21,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - <a href="http://www.tuwien.ac.at/">维也纳技术大学</a>应用物理系
   - 访问学者，合作导师Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
 
-### 3.研究兴趣
+### 3.&nbsp;研究兴趣
 
 我主要围绕 **气固界面反应** 和 **过程颗粒偏析** 两个方向开展尺度间隙的连接研究。
 
@@ -33,7 +33,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - 在无料钟高炉炉顶布料过程
   - 在烧结布料过程
 
-### 4.一些成绩
+### 4.&nbsp;一些成绩
 *   2021&nbsp;重庆市高校教师教学创新大赛正高组二等奖 
 *   2021&nbsp;&nbsp;重庆市教学成果奖三等奖（排名第6） 
 *   2020  冶金科学技术奖二等奖（排名第4）
@@ -51,12 +51,12 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 *   2006  濮耐PRCO奖学金
 *   2005  浦项POSCO奖学金
 
-### 5.毕业学生
+### 5.&nbsp;毕业学生
 
-| 胡招文 |硕士(2013-2016)    | 华友钴业 |
+| 胡招文 |硕士(2013-2016) | 华友钴业 |
 | 王冬东 |硕士(2014-2017) | 宝钢国际 | 
-| 徐扬 |硕士(2015-2018)       | 比亚迪汽车 | 
-| 马凯辉 |硕士&博士(2016-2021)     | 攀钢研究院 |
-| 廖哲晗 |硕士(2017-2020)     | 本校攻读博士学位 |
-| 邓君一 |硕士(2018-2021)    | 日本东北大学攻读博士学位 |
-| 杨宜璋 |硕士(2019-2022)     | 中国重汽 |
+| 徐==扬 |硕士(2015-2018)   | 比亚迪汽车 | 
+| 马凯辉 |硕士&博士(2016-2021) | 攀钢研究院 |
+| 廖哲晗 |硕士(2017-2020) | 本校攻读博士学位 |
+| 邓君一 |硕士(2018-2021) | 日本东北大学攻读博士学位 |
+| 杨宜璋 |硕士(2019-2022) | 中国重汽 |
