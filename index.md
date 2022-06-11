@@ -34,7 +34,7 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
   - in bell-less top blast furnace process
   - in sintering process
 
-[Publications on google scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN)
+- [Publications on google scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN)
 
 ### Awards and Honors
 *   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
