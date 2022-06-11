@@ -4,6 +4,8 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in metallurg
 
 **Email**: jxu at cqu.edu.cn (_replace at with @_)
 
+[English Ver.](./index.html)
+
 ## 教育背景
 
 - <a href="https://www.ustb.edu.cn/">北京科技大学</a>冶金与生态工程学院
