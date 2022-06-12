@@ -59,7 +59,7 @@ I focuse mainly on the **"bridges"** to cross over the scale gaps in the **Gas-s
   - National Natural Science Foundation of China
   - Natural Science Foundation of Chongqing, China
 
-- Reviewer for academic journals
+- Reviewer for Scholarly Journals
   - Chemical Engineering Communications
   - Environmental Science & Technology
   - Applied Mathematical Modelling
