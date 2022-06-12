@@ -8,18 +8,18 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 ### 教育背景 / Education
 
-- <a href="https://www.ustb.edu.cn/">北京科技大学</a>冶金与生态工程学院
+- [北京科技大学](https://www.ustb.edu.cn/)冶金与生态工程学院
   - 钢铁冶金专业工学博士 (导师：[吴胜利](https://metall.ustb.edu.cn/szdw/xsjs/W/wsl/index.htm) 教授), 2007-2012
   - 冶金工程专业工学学士, 2003-2007
 
 ### 工作经历 / Work Experience
 
-- <a href="https://www.cqu.edu.cn/">重庆大学</a>材料科学与工程学院
+- [重庆大学](https://www.cqu.edu.cn/)材料科学与工程学院
   - 教授, 2019至今
   - 副教授, 2014-2019
   - 讲师, 2012-2014
-- <a href="http://www.tuwien.ac.at/">维也纳技术大学</a>应用物理系
-  - 访问学者 (合作导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授), 2018-2019
+- [维也纳技术大学](http://www.tuwien.ac.at/)应用物理系
+  - 访问学者 (导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授), 2018-2019
 
 ### 研究兴趣 / Research Interests 
 
