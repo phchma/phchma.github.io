@@ -54,6 +54,22 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 *   2006  PRCO Scholarship
 *   2005  POSCO Scholarship
 
+### Academic Activities
+- Peer reviewer for scientific journals
+  - Chemical Engineering Communications
+  - Environmental Science & Technology
+  - Applied Mathematical Modelling
+  - Powder Technology
+  - Particulate Science and Technology
+  - Journal of Alloys and Compounds
+  - Metallurgical and Materials Transactions B
+  - Journal of Catalysis
+  - Energy Conversion and Management: X
+
+- Peer reviewer for scientific journals
+  - Chemical Engineering Communications
+  - Environmental Science & Technology
+  - 
 ### Alumni
 
 | Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt |
