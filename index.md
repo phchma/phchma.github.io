@@ -55,11 +55,11 @@ I focuse mainly on the **"bridges"** to cross over the scale gaps in the **Gas-s
 *   2005  POSCO Scholarship
 
 ### Academic Activities
-- Peer reviewer for scientific funds
+- Reviewer for scientific funds
   - National Natural Science Foundation of China
   - Natural Science Foundation of Chongqing, China
 
-- Peer reviewer for academic journals
+- Reviewer for academic journals
   - Chemical Engineering Communications
   - Environmental Science & Technology
   - Applied Mathematical Modelling
