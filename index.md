@@ -55,6 +55,10 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
 *   2005  POSCO Scholarship
 
 ### Academic Activities
+- Peer reviewer for scientific funds
+  - National Natural Science Foundation of China
+  - Natural Science Foundation of Chongqing, China
+
 - Peer reviewer for scientific journals
   - Chemical Engineering Communications
   - Environmental Science & Technology
@@ -65,11 +69,7 @@ I focuses mainly on the **"bridges"** to cross over the scale gaps in the **Gas-
   - Metallurgical and Materials Transactions B
   - Journal of Catalysis
   - Energy Conversion and Management: X
-
-- Peer reviewer for scientific journals
-  - Chemical Engineering Communications
-  - Environmental Science & Technology
-  - 
+  
 ### Alumni
 
 | Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt |
