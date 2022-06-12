@@ -8,17 +8,17 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 ### Education
 
-- School of Metallurgical and Ecological Engineering, <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing">University of Science and Technology, Beijing</a>
+- School of Metallurgical and Ecological Engineering, [University of Science and Technology, Beijing](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing)
   - Ph.D. in Ferrous Metallurgy (Advisor: Prof. Shengli Wu), 2007-2012
   - Bachelor's degree in Metallurgical Engineering, 2003-2007
 
 ### Work Experience
 
-- College of Materials Science and Engineering, <a href="https://en.wikipedia.org/wiki/Chongqing_University">Chongqing University</a>
+- College of Materials Science and Engineering, [Chongqing University](https://en.wikipedia.org/wiki/Chongqing_University)
   - Professor, 2019-present
   - Associate Professor, 2014-2019
   - Assistant Professor, 2012-2014
-- Institute of Applied Physics, <a href="https://en.wikipedia.org/wiki/TU_Wien">TU Wien</a>
+- Institute of Applied Physics, [TU Wien](https://en.wikipedia.org/wiki/TU_Wien)
   - Visiting Scholar (Advisor: Prof. [Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) and Prof. [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index)), 2018-2019
 
 ### Research Interests
