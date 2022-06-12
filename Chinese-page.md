@@ -34,7 +34,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - 在无料钟高炉炉顶布料过程
   - 在烧结布料过程
 
-- [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)
+- 可以在[谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)上找到相关公开发表的学术论文
 
 ### 一些成绩 / Awards and Honors 
 *   2021  重庆市高校教师教学创新大赛正高组二等奖 
@@ -49,7 +49,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 *   2011  北科大十大学术之星：提名奖
 *   2007  北京市三好学生
 *   2007  北科大优秀本科毕业设计（论文）
-*   2007  人民特种奖学金
+*   2007  人民特等奖学金
 *   2006  北科大冶金与生态工程学院院长奖
 *   2006  濮耐PRCO奖学金
 *   2005  浦项POSCO奖学金
