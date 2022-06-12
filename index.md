@@ -9,7 +9,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 ### Education
 
 - School of Metallurgical and Ecological Engineering, <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing">University of Science and Technology, Beijing</a>
-  - Ph.D., 2007-2012
+  - Ph.D. (Advisor: Prof. Shengli Wu), 2007-2012
   - Bachelor, 2003-2007
 
 ### Work Experience
@@ -19,7 +19,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Associate Professor, 2014-2019
   - Assistant Professor, 2012-2014
 - Institute of Applied Physics, <a href="https://en.wikipedia.org/wiki/TU_Wien">TU Wien</a>
-  - Visiting Scholar with Prof. Ulrike Diebold and Gareth S. Parkinson, 2018-2019
+  - Visiting Scholar with [Prof. Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) and [Prof. Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index), 2018-2019
 
 ### Research Interests
 
