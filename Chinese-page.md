@@ -2,7 +2,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 **Phone**: (+86) 23 6511 2631
 
-**Email**: jxu at cqu.edu.cn (_replace at with @_)
+**Email**: jxu at cqu.edu.cn / xujian.metall at gmail.com (_replace at with @_)
 
 [English Ver.](./index.html)
 
