@@ -19,7 +19,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - 副教授, 2014-2019
   - 讲师, 2012-2014
 - <a href="http://www.tuwien.ac.at/">维也纳技术大学</a>应用物理系
-  - 访问学者，合作导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授, 2018-2019
+  - 访问学者 (合作导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授), 2018-2019
 
 ### 研究兴趣 / Research Interests 
 
@@ -53,6 +53,22 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 *   2006  北科大冶金与生态工程学院院长奖
 *   2006  濮耐PRCO奖学金
 *   2005  浦项POSCO奖学金
+
+### 学术活动 / Academic Activities
+- 科学基金的通讯评审
+  - 国家自然科学基金
+  - 重庆市自然科学基金
+
+- 学术期刊的同行评审
+  - Chemical Engineering Communications
+  - Environmental Science & Technology
+  - Applied Mathematical Modelling
+  - Powder Technology
+  - Particulate Science and Technology
+  - Journal of Alloys and Compounds
+  - Metallurgical and Materials Transactions B
+  - Journal of Catalysis
+  - Energy Conversion and Management: X
 
 ### 毕业学生 / Alumni
 
