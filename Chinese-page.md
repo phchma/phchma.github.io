@@ -55,7 +55,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 *   2005  浦项POSCO奖学金
 
 ### 学术活动 / Academic Activities
-- 科学基金的通讯评审
+- 研究基金的通讯评审
   - 国家自然科学基金
   - 重庆市自然科学基金
 
