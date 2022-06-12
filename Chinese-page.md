@@ -19,7 +19,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - 副教授, 2014-2019
   - 讲师, 2012-2014
 - <a href="http://www.tuwien.ac.at/">维也纳技术大学</a>应用物理系
-  - 访问学者，合作导师：[Ulrike Diebold 教授](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson 教授](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index), 2018-2019
+  - 访问学者，合作导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授, 2018-2019
 
 ### 研究兴趣 / Research Interests 
 
