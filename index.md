@@ -39,7 +39,7 @@ I focuse mainly on the **"bridges"** to cross over the scale gaps in the **Gas-s
 ### Awards and Honors
 *   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
 *   2021  Third Prize of Teaching Achievement Award of Chongqing 
-*   2020  Second Prize of Metallurgical Science and Technology
+*   2020  Second Prize of Metallurgical Science and Technology Award
 *   2020  Chongqing Talents: Exceptional Young Talents Project
 *   2019  Metallurgical Dean Award of National Universities
 *   2018  Excellent Young Teacher of CQU
