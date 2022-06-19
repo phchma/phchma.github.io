@@ -69,6 +69,7 @@ I focuse mainly on the **"bridges"** to cross over the scale gaps in the **Gas-s
   - Metallurgical and Materials Transactions B
   - Journal of Catalysis
   - Energy Conversion and Management: X
+  - Journal of Iron and Steel Research International
   
 ### Alumni
 
