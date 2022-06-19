@@ -69,6 +69,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Metallurgical and Materials Transactions B
   - Journal of Catalysis
   - Energy Conversion and Management: X
+  - Journal of Iron and Steel Research International
 
 ### 毕业学生 / Alumni
 
