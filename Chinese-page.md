@@ -70,6 +70,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Journal of Catalysis
   - Energy Conversion and Management: X
   - Journal of Iron and Steel Research International
+  - Particuology
 
 ### 毕业学生 / Alumni
 
