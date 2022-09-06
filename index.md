@@ -23,7 +23,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 ### Research Interests
 
-I focuse mainly on the **"bridges"** to cross over the scale gaps in the **Gas-solid interfacial reaction** and **Process granular segregation** systems. 
+To bridge multu-scale gaps in either the gas-solid interfacial reaction system or the process granular segregation system. 
 
 - Gas-solid interfacial reaction
   - Relation between CO and H2 in gaseous reductions of iron oxides
