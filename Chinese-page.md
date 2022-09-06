@@ -23,7 +23,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 ### 研究兴趣 / Research Interests 
 
-我主要围绕 **气固界面反应** 和 **过程颗粒偏析** 两个方向开展尺度间隙的连接研究。
+主要围绕气固界面反应和过程颗粒偏析两个系统开展多尺度研究。
 
 - 气固界面反应
   - 铁氧化物气基还原中CO与H2的相互关系
