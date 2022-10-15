@@ -74,10 +74,10 @@ To bridge multu-scale gaps in either the gas-solid interfacial reaction system o
   
 ### Alumni
 
-| Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt@Quzhou |
-| Dongdong Wang |M.E.(2014-2017) | Baosteel International@Shanghai   | 
-| Yang Xu |M.E.(2015-2018)       | BYD Auto@Shenzhen/Chongqing      | 
-| Kaihui Ma |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute@Chengdu |
-| Zhehan Liao |M.E.(2017-2020)   | PhD candidate of Chongqing University |
-| Junyi Deng |M.E.(2018-2021)    | PhD candidate of Tohoku University@Sendai |
-| Yizhang Yang |M.E.(2019-2022)  | SinoTruk@Jinan |
+| Zhaowen Hu |M.E.(2013-2016)    | Huayou Cobalt  (Quzhou) |
+| Dongdong Wang |M.E.(2014-2017) | Baosteel International (Shanghai)   | 
+| Yang Xu |M.E.(2015-2018)       | BYD Auto (Shenzhen/Chongqing)      | 
+| Kaihui Ma |M.E.&Ph.D.(2016-2021)     | Pangang Group Research Institute (Chengdu) |
+| Zhehan Liao |M.E.(2017-2020)   | PhD candidate of Chongqing University  (Chongqing) |
+| Junyi Deng |M.E.(2018-2021)    | PhD candidate of Tohoku University (Sendai) |
+| Yizhang Yang |M.E.(2019-2022)  | SinoTruk (Jinan) |
