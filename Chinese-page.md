@@ -9,30 +9,30 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 ### 教育背景 / Education
 
 - [北京科技大学](https://www.ustb.edu.cn/)冶金与生态工程学院
-  - 钢铁冶金专业工学博士 (导师：[吴胜利](https://metall.ustb.edu.cn/szdw/xsjs/W/wsl/index.htm) 教授), 2007-2012
-  - 冶金工程专业工学学士, 2003-2007
+- 钢铁冶金专业工学博士 (导师：[吴胜利](https://metall.ustb.edu.cn/szdw/xsjs/W/wsl/index.htm) 教授), 2007-2012
+- 冶金工程专业工学学士, 2003-2007
 
 ### 工作经历 / Work Experience
 
 - [重庆大学](https://www.cqu.edu.cn/)材料科学与工程学院
-  - 教授, 2019至今
-  - 副教授, 2014-2019
-  - 讲师, 2012-2014
+	- 教授, 2019至今
+	- 副教授, 2014-2019
+	- 讲师, 2012-2014
 - [维也纳技术大学](http://www.tuwien.ac.at/)应用物理系
-  - 访问学者 (导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授), 2018-2019
+	- 访问学者 (导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授), 2018-2019
 
 ### 研究兴趣 / Research Interests 
 
 主要围绕气固界面反应和过程颗粒偏析两个系统开展多尺度研究。
 
 - 气固界面反应
-  - 铁氧化物气基还原中CO与H2的相互关系
-  - 升温过程中还原与成渣反应的相互关系
-  - 铁晶须的生长
+	-  铁氧化物气基还原中CO与H2的相互关系
+	- 升温过程中还原与成渣反应的相互关系
+	- 铁晶须的生长
 
 - 过程颗粒偏析
-  - 在无料钟高炉炉顶布料过程
-  - 在烧结布料过程
+	-  在无料钟高炉炉顶布料过程
+	-  在烧结布料过程
 
 - [谷歌学术上的发表记录](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)
 
@@ -56,21 +56,21 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 ### 学术活动 / Academic Activities
 - 研究基金的通讯评审
-  - 国家自然科学基金
-  - 重庆市自然科学基金
+	-  国家自然科学基金
+	-  重庆市自然科学基金
 
 - 学术期刊的同行评审
-  - Chemical Engineering Communications
-  - Environmental Science & Technology
-  - Applied Mathematical Modelling
-  - Powder Technology
-  - Particulate Science and Technology
-  - Journal of Alloys and Compounds
-  - Metallurgical and Materials Transactions B
-  - Journal of Catalysis
-  - Energy Conversion and Management: X
-  - Journal of Iron and Steel Research International
-  - Particuology
+	- Chemical Engineering Communications
+	- Environmental Science & Technology
+	- Applied Mathematical Modelling
+	- Powder Technology
+	- Particulate Science and Technology
+	- Journal of Alloys and Compounds
+	- Metallurgical and Materials Transactions B
+	- Journal of Catalysis
+	- Energy Conversion and Management: X
+	- Journal of Iron and Steel Research International
+	- Particuology
 
 ### 毕业学生 / Alumni
 
