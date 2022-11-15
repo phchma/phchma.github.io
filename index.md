@@ -9,8 +9,8 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 ### Education
 
 - School of Metallurgical and Ecological Engineering, [University of Science and Technology, Beijing](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing)
-- Ph.D. in Ferrous Metallurgy (Advisor: Prof. Shengli Wu), 2007-2012
-- Bachelor's degree in Metallurgical Engineering, 2003-2007
+	- Ph.D. in Ferrous Metallurgy (Advisor: Prof. Shengli Wu), 2007-2012
+	- Bachelor's degree in Metallurgical Engineering, 2003-2007
 
 ### Work Experience
 
