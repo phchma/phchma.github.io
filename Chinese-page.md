@@ -9,8 +9,8 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 ### 教育背景 / Education
 
 - [北京科技大学](https://www.ustb.edu.cn/)冶金与生态工程学院
-- 钢铁冶金专业工学博士 (导师：[吴胜利](https://metall.ustb.edu.cn/szdw/xsjs/W/wsl/index.htm) 教授), 2007-2012
-- 冶金工程专业工学学士, 2003-2007
+	- 钢铁冶金专业工学博士 (导师：[吴胜利](https://metall.ustb.edu.cn/szdw/xsjs/W/wsl/index.htm) 教授), 2007-2012
+	- 冶金工程专业工学学士, 2003-2007
 
 ### 工作经历 / Work Experience
 
