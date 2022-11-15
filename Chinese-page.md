@@ -26,8 +26,8 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 主要围绕气固界面反应和过程颗粒偏析两个系统开展多尺度研究。
 
 - 气固界面反应
-	-  铁氧化物气基还原中CO与H2的相互关系
-	- 升温过程中还原与成渣反应的相互关系
+	- 铁氧化物气基还原中CO与H2的竞争关系
+	- 升温过程中还原与成渣反应的竞争关系
 	- 铁晶须的生长
 
 - 过程颗粒偏析
@@ -71,6 +71,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 	- Energy Conversion and Management: X
 	- Journal of Iron and Steel Research International
 	- Particuology
+	- Metallurgical Research & Technology
 
 ### 毕业学生 / Alumni
 
