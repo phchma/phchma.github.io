@@ -26,9 +26,9 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 To bridge multi-scale gaps in either the gas-solid interfacial reaction system or the process granular segregation system. 
 
 - Gas-solid interfacial reaction
-	- Relation between CO and H2 in gaseous reductions of iron oxides
-	- Relation between reduction and slagging reactions at elevated temperatures
-	- Iron whisker growth
+	- in competition between CO and H2 in gaseous reductions of iron oxides
+	- in competition between reduction and slagging reactions at elevated temperatures
+	- for Iron whisker growth
 
 - Process granular segregation
 	- in bell-less top blast furnace process
@@ -71,6 +71,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 	- Energy Conversion and Management: X
 	- Journal of Iron and Steel Research International
 	- Particuology
+	- Metallurgical Research & Technology
   
 ### Alumni
 
