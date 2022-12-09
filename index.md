@@ -9,34 +9,35 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 ### Education
 
 - School of Metallurgical and Ecological Engineering, [University of Science and Technology, Beijing](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing)
-	- Ph.D. in Ferrous Metallurgy (Advisor: Prof. Shengli Wu), 2007-2012
-	- Bachelor's degree in Metallurgical Engineering, 2003-2007
+  - Ph.D. in Ferrous Metallurgy (Advisor: Prof. Shengli Wu), 2007-2012
+  - Bachelor's degree in Metallurgical Engineering, 2003-2007
 
 ### Work Experience
 
 - College of Materials Science and Engineering, [Chongqing University](https://en.wikipedia.org/wiki/Chongqing_University)
-	- Professor, 2019-present
-	- Associate Professor, 2014-2019
-	- Assistant Professor, 2012-2014
+  - Professor, 2019-present
+  - Associate Professor, 2014-2019
+  - Assistant Professor, 2012-2014
 - Institute of Applied Physics, [TU Wien](https://en.wikipedia.org/wiki/TU_Wien)
-	- Visiting Scholar (Advisor: Prof. [Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) and Prof. [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index)), 2018-2019
+  - Visiting Scholar (Advisor: Prof. [Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) and Prof. [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index)), 2018-2019
 
 ### Research Interests
 
 To bridge multi-scale gaps in either the gas-solid interfacial reaction system or the process granular segregation system. 
 
 - Gas-solid interfacial reaction
-	- in competition between CO and H2 in gaseous reductions of iron oxides
-	- in competition between reduction and slagging reactions at elevated temperatures
-	- for Iron whisker growth
+  - in competition between CO and H2 in gaseous reductions of iron oxides
+  - in competition between reduction and slagging reactions at elevated temperatures
+  - for Iron whisker growth
 
 - Process granular segregation
-	- in bell-less top blast furnace process
-	- in sintering process
+  - in bell-less top blast furnace process
+  - in sintering process
 
 - [Publications on Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN)
 
 ### Awards and Honors
+
 *   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
 *   2021  Third Prize of Teaching Achievement Award of Chongqing 
 *   2020  Second Prize of Metallurgical Science and Technology Award
@@ -55,24 +56,27 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 *   2005  POSCO Scholarship
 
 ### Academic Activities
+
+- Member of Simulation & Virtual Process Engineering Committee (VPEC), the Chemical Industry and Engineering Society of China (CIESC), 2022.9-present
+
 - Reviewer for Research Funding from
-	-  National Natural Science Foundation of China
-	-  Natural Science Foundation of Chongqing, China
+  -  National Natural Science Foundation of China
+  -  Natural Science Foundation of Chongqing, China
 
 - Reviewer for Scholarly Journals, such as
-	- Chemical Engineering Communications
-	- Environmental Science & Technology
-	- Applied Mathematical Modelling
-	- Powder Technology
-	- Particulate Science and Technology
-	- Journal of Alloys and Compounds
-	- Metallurgical and Materials Transactions B
-	- Journal of Catalysis
-	- Energy Conversion and Management: X
-	- Journal of Iron and Steel Research International
-	- Particuology
-	- Metallurgical Research & Technology
-  
+  - Chemical Engineering Communications
+  - Environmental Science & Technology
+  - Applied Mathematical Modelling
+  - Powder Technology
+  - Particulate Science and Technology
+  - Journal of Alloys and Compounds
+  - Metallurgical and Materials Transactions B
+  - Journal of Catalysis
+  - Energy Conversion and Management: X
+  - Journal of Iron and Steel Research International
+  - Particuology
+  - Metallurgical Research & Technology
+
 ### Alumni
 
 | Zhaowen Hu |M.E.  (2013-2016)    | Huayou Cobalt  (Quzhou) |
