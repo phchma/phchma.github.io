@@ -51,7 +51,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 *   2007  Excellent Student of Beijing Municipality
 *   2007  Excellent Bachelor Thesis of USTB
 *   2007  People’s Top Class Scholarship
-*   2006  Dead Award of School of Metallurgical and Ecological Engineering, USTB
+*   2006  Dean Award of School of Metallurgical and Ecological Engineering, USTB
 *   2006  PRCO Scholarship
 *   2005  POSCO Scholarship
 
