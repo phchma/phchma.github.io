@@ -57,7 +57,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 ### 学术活动 / Academic Activities
 
-- 中国化工学会过程模拟及仿真专业委员会委员，2022.9至今
+- 中国化工学会过程模拟及仿真专业委员会委员，2022.12至今
 
 - 研究基金的通讯评审
   -  国家自然科学基金
@@ -86,3 +86,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 | 廖哲晗 |硕士 (2017-2020) | 本校攻读博士学位 (重庆) |
 | 邓君一 |硕士 (2018-2021) | 日本东北大学攻读博士学位 (仙台) |
 | 杨宜璋 |硕士 (2019-2022) | 中国重汽 (济南) |
+
+### 链接 / Links
+
+[Galen Funds](./Galen.html)
