@@ -57,7 +57,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 
 ### Academic Activities
 
-- Member of Simulation & Virtual Process Engineering Committee (VPEC), the Chemical Industry and Engineering Society of China (CIESC), 2022.9-present
+- Member of Simulation & Virtual Process Engineering Committee (VPEC), the Chemical Industry and Engineering Society of China (CIESC), 2022.12-present
 
 - Reviewer for Research Funding from
   -  National Natural Science Foundation of China
@@ -86,3 +86,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 | Zhehan Liao |M.E. (2017-2020)   | PhD candidate of Chongqing University  (Chongqing) |
 | Junyi Deng |M.E.  (2018-2021)    | PhD candidate of Tohoku University (Sendai) |
 | Yizhang Yang |M.E.  (2019-2022)  | SinoTruk (Jinan) |
+
+### Links
+
+[Galen Funds](./Galen.html)
