@@ -6,6 +6,10 @@ Established in 2019, Galen Funds would like to do something different.
 
 ### Galen Special Scholarship
 
+- Winner of 2022
+
+  **Mr. Yizhang Yang**
+  
 - Winner of 2021
 
   **Mr. Junyi Deng**
