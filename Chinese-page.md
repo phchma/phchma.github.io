@@ -76,6 +76,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Journal of Iron and Steel Research International
   - Particuology
   - Metallurgical Research & Technology
+  - Steel Research International
 
 ### 毕业学生 / Alumni
 
