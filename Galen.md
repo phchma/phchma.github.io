@@ -24,6 +24,10 @@ Established in 2019, Galen Funds would like to do something different.
 
 ### Galen Invited Talk
 
+- Spring of 2023, given by **Dr. Xin Lu** from University of Science and Technology Beijing (previously worked in Tohoku University)
+
+> Towards a Sustainable Metallurgy by Advanced Recycling System
+
 - Fall of 2022, given by **Dr. Charley Wu** from University of Surrey
 
 > Discrete element modelling of deformable granular materials
