@@ -77,6 +77,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Particuology
   - Metallurgical Research & Technology
   - Steel Research International
+  - Journal of Central South University
   - Metal and Materials International
 
 ### Alumni
