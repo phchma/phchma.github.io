@@ -77,6 +77,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Particuology
   - Metallurgical Research & Technology
   - Steel Research International
+  - Journal of Central South University
   - Metal and Materials International
 
 ### 毕业学生 / Alumni
