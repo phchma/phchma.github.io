@@ -77,6 +77,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Particuology
   - Metallurgical Research & Technology
   - Steel Research International
+  - Metal and Materials International
 
 ### Alumni
 
@@ -87,6 +88,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 | Zhehan Liao |M.E. (2017-2020)   | PhD candidate of Chongqing University  (Chongqing) |
 | Junyi Deng |M.E.  (2018-2021)    | PhD candidate of Tohoku University (Sendai) |
 | Yizhang Yang |M.E.  (2019-2022)  | SinoTruk (Jinan) |
+| Panshuai Ma |M.E.  (2020-2023)  | Mingyang Smart Energy (Zhongshan) |
 
 ### Links
 
