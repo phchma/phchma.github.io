@@ -77,6 +77,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Particuology
   - Metallurgical Research & Technology
   - Steel Research International
+  - Metal and Materials International
 
 ### 毕业学生 / Alumni
 
@@ -87,6 +88,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 | 廖哲晗 |硕士 (2017-2020) | 本校攻读博士学位 (重庆) |
 | 邓君一 |硕士 (2018-2021) | 日本东北大学攻读博士学位 (仙台) |
 | 杨宜璋 |硕士 (2019-2022) | 中国重汽 (济南) |
+| 麻攀帅 |硕士 (2020-2023) | 明阳智能 (中山) |
 
 ### 链接 / Links
 
