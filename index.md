@@ -64,21 +64,21 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   -  Natural Science Foundation of Chongqing, China
 
 - Reviewer for Scholarly Journals, such as
-  - Chemical Engineering Communications
-  - Environmental Science & Technology
   - Applied Mathematical Modelling
-  - Powder Technology
-  - Particulate Science and Technology
-  - Journal of Alloys and Compounds
-  - Metallurgical and Materials Transactions B
-  - Journal of Catalysis
+  - Chemical Engineering Communications
   - Energy Conversion and Management: X
+  - Environmental Science & Technology
+  - Journal of Alloys and Compounds
+  - Journal of Catalysis
   - Journal of Iron and Steel Research International
-  - Particuology
-  - Metallurgical Research & Technology
-  - Steel Research International
-  - Journal of Central South University
+  - Journal of Molecular Structure
   - Metal and Materials International
+  - Metallurgical and Materials Transactions B
+  - Metallurgical Research & Technology
+  - Particuology
+  - Particulate Science and Technology
+  - Powder Technology
+  - Steel Research International
 
 ### Alumni
 
