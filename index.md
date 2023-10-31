@@ -62,6 +62,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 - Reviewer for Research Funding from
   -  National Natural Science Foundation of China
   -  Natural Science Foundation of Chongqing, China
+  -  Natural Science Foundation of Sichuan, China
 
 - Reviewer for Scholarly Journals, such as
   - Applied Mathematical Modelling
