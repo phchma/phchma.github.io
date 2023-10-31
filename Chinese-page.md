@@ -62,9 +62,11 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - 研究基金的通讯评审
   -  国家自然科学基金
   -  重庆市自然科学基金
+  -  四川省自然科学基金
 
 - 学术期刊的同行评审
   - Applied Mathematical Modelling
+  - BioSystems
   - Chemical Engineering Communications
   - Energy Conversion and Management: X
   - Environmental Science & Technology
