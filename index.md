@@ -80,6 +80,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Particuology
   - Particulate Science and Technology
   - Powder Technology
+  - Surface & Coatings Technology
   - Steel Research International
 
 ### Alumni
