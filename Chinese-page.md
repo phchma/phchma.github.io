@@ -58,7 +58,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 ### 学术活动 / Academic Activities
 
 - 中国化工学会过程模拟及仿真专业委员会委员，2022.12至今
-- 《钢铁钒钛》期刊主题编辑，2023.7-2026.7
+- [《钢铁钒钛》](http://www.gtft.cn/news/introduction.htm)期刊主题编辑，2023.7-2026.7
 
 - 研究基金的通讯评审
   -  国家自然科学基金
