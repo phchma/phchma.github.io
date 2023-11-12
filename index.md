@@ -58,7 +58,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 ### Academic Activities
 
 - Member of Simulation & Virtual Process Engineering Committee (VPEC), the Chemical Industry and Engineering Society of China (CIESC), 2022.12-present
-- Suject Editor of Iron Steel Vanadium Titanium, 2023.7-2026.7
+- Suject Editor of Iron Steel Vanadium Titanium(in Chinese), 2023.7-2026.7
 
 - Reviewer for Research Funding from
   -  National Natural Science Foundation of China
