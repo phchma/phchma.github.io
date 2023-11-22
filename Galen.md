@@ -6,10 +6,10 @@ Established in 2019, Galen Funds would like to do something different.
 
 ### Galen Special Scholarship Winner
 
-| 2022 | Yizhang Yang    |
-| 2021 | Junyi Deng    |
-| 2020 | Chengfeng Sun    |
-| 2019 | Zhehan Liao    |
+| 2022 | Mr. Yizhang Yang    |
+| 2021 | Mr. Junyi Deng    |
+| 2020 | Mr. Chengfeng Sun    |
+| 2019 | Mr. Zhehan Liao    |
 
 
 ### Galen Invited Talk
