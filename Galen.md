@@ -24,6 +24,10 @@ Established in 2019, Galen Funds would like to do something different.
 
 ### Galen Invited Talk
 
+- Fall of 2023, given by **Dr. Hao Chen** from Stanford University
+
+> Small Molecules in Catalytic Energy Conversion
+
 - Spring of 2023, given by **Dr. Xin Lu** from University of Science and Technology Beijing / Tohoku University
 
 > Towards a Sustainable Metallurgy by Advanced Recycling System
