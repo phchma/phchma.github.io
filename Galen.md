@@ -12,22 +12,6 @@ Established in 2019, Galen Funds would like to do something different.
 | 2019 | Zhehan Liao    |
 
 
-- Winner of 2022
-
-  **Mr. Yizhang Yang**
-  
-- Winner of 2021
-
-  **Mr. Junyi Deng**
-
-- Winner of 2020: 
-
-  **Mr. Chengfeng Sun**
-
-- Winner of 2019
-
-  **Mr. Zhehan Liao**
-
 ### Galen Invited Talk
 
 - Fall of 2023, given by **Dr. Hao Chen** from Stanford University
