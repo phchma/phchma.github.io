@@ -94,6 +94,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 | Junyi Deng |M.E.  (2018-2021)    | PhD candidate of Tohoku University (Sendai) |
 | Yizhang Yang |M.E.  (2019-2022)  | SinoTruk (Jinan) |
 | Panshuai Ma |M.E.  (2020-2023)  | Mingyang Smart Energy (Zhongshan) |
+| Chengfeng Sun |Ph.D.  (2017-2023)  | Commission of Economy and Information Technology, Jiulongpo District (Chongqing) |
 
 ### Links
 
