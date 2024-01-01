@@ -70,9 +70,11 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - BioSystems
   - Chemical Engineering Communications
   - Energy Conversion and Management: X
+  - Environmental Science and Pollution Research
   - Environmental Science & Technology
   - Journal of Alloys and Compounds
   - Journal of Catalysis
+  - Journal of CO2 Utilization
   - Journal of Iron and Steel Research International
   - Journal of Molecular Structure
   - Metal and Materials International
