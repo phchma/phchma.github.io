@@ -69,6 +69,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Applied Mathematical Modelling
   - BioSystems
   - Chemical Engineering Communications
+  - Chemical Engineering Science
   - Energy Conversion and Management: X
   - Environmental Science and Pollution Research
   - Environmental Science & Technology
@@ -77,12 +78,14 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Journal of CO2 Utilization
   - Journal of Iron and Steel Research International
   - Journal of Molecular Structure
+  - Journal of Sustainable Metallurgy
   - Metal and Materials International
   - Metallurgical and Materials Transactions B
   - Metallurgical Research & Technology
   - Particuology
   - Particulate Science and Technology
   - Powder Technology
+  - Silicon
   - Surface & Coatings Technology
   - Steel Research International
 
