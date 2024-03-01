@@ -17,7 +17,7 @@ Established in 2019, Galen Funds would like to do something different.
 
 - 2023年秋 / Fall of 2023, given by **Dr. Hao Chen** from Stanford University
 
-> Small molecules in catalytic energy conversion
+==Small molecules in catalytic energy conversion==
 
 - 2023年春 / Spring of 2023, given by **Dr. Xin Lu** from University of Science and Technology Beijing / Tohoku University
 
