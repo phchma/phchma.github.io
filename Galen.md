@@ -1,32 +1,32 @@
-### Galen Funds
+### Galen基金 / Galen Funds
 
 Established in 2019, Galen Funds would like to do something different.
 
 [Return](./index.html)
 
-### Galen Special Scholarship Winner
+### Galen特种奖学金获奖者 / Galen Special Scholarship Winner
 
-| 2023 | Mr. Yufei Huang    |
-| 2022 | Mr. Yizhang Yang    |
-| 2021 | Mr. Junyi Deng    |
-| 2020 | Mr. Chengfeng Sun    |
-| 2019 | Mr. Zhehan Liao    |
+| 2023 | Mr. Yufei Huang （黄宇飞）    |
+| 2022 | Mr. Yizhang Yang （杨宜璋）    |
+| 2021 | Mr. Junyi Deng （邓君一）    |
+| 2020 | Mr. Chengfeng Sun （孙成烽）    |
+| 2019 | Mr. Zhehan Liao （廖哲晗）    |
 
 
-### Galen Invited Talk
+### Galen特邀讲座 / Galen Invited Talk
 
-- Fall of 2023, given by **Dr. Hao Chen** from Stanford University
+- 2023年秋 / Fall of 2023, given by **Dr. Hao Chen** from Stanford University
 
-> Small Molecules in Catalytic Energy Conversion
+> Small molecules in catalytic energy conversion
 
-- Spring of 2023, given by **Dr. Xin Lu** from University of Science and Technology Beijing / Tohoku University
+- 2023年春 / Spring of 2023, given by **Dr. Xin Lu** from University of Science and Technology Beijing / Tohoku University
 
-> Towards a Sustainable Metallurgy by Advanced Recycling System
+> Towards a sustainable metallurgy by advanced recycling system
 
-- Fall of 2022, given by **Dr. Charley Wu** from University of Surrey
+- 2022年秋 / Fall of 2022, given by **Dr. Charley Wu** from University of Surrey
 
 > Discrete element modelling of deformable granular materials
 
-- Spring of 2022, given by **Dr. Shibo Kuang** from Monash University
+- 2022年春 / Spring of 2022, given by **Dr. Shibo Kuang** from Monash University
 
 > Development of blast furnace (BF) process model and its application to low-carbon BF ironmaking
