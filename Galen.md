@@ -2,6 +2,8 @@
 
 人生就是一场经历，有成功，有失意，有开心，有伤感，有亲情，有友情，有憎恨，有悲悯... ...我们试图让大家发现，有一种体验非常美好，那就是帮助别人。我们也希望互助的精神可以一直传承，这就是设立Galen基金的初衷。
 
+Life is a journey filled with experiences, including success, disappointment, happiness, sadness, familial love, friendship, hatred, and compassion... We strive to make everyone realize that there is a beautiful experience in helping others. We also hope that the spirit of mutual assistance can be passed on forever, which is the original intention behind the establishment of the Galen Fund.
+
 [Return](./index.html)
 
 ### Galen特种奖学金获奖者 / Galen Special Scholarship Winner
