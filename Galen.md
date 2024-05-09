@@ -16,6 +16,11 @@ Life is a journey filled with experiences, including success, disappointment, ha
 
 
 ### Galen特邀讲座 / Galen Invited Talk
+#### 2024年春 / Spring of 2024
+> Beyond the textbook: Practical lessons from my career journey
+
+given by **Dr. Wei Yan** from Google
+
 #### 2023年秋 / Fall of 2023
 > Small molecules in catalytic energy conversion
 
