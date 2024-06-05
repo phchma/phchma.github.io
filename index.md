@@ -100,7 +100,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 | Junyi Deng |M.E.  (2018-2021)    | PhD candidate of Tohoku University (Sendai) |
 | Zhehan Liao |M.E. (2017-2020)   | PhD candidate of Chongqing University  (Chongqing) |
 | Kaihui Ma |M.E.&Ph.D. (2016-2021)     | Pangang Group Research Institute (Chengdu) |
-| Yang Xu |M.E. (2015-2018)       | BYD Auto (Shenzhen/Chongqing)      | 
+| Yang Xu |M.E. (2015-2018)       | BYD Auto (Shenzhen)      | 
 | Dongdong Wang |M.E. (2014-2017) | Baosteel International (Shanghai)   | 
 | Zhaowen Hu |M.E.  (2013-2016)    | Huayou Cobalt  (Quzhou) |
 
