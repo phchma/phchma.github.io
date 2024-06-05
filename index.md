@@ -92,7 +92,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 ### Alumni
 
 | Zhehan Liao |Ph.D.  (2020-2024)  | Chengdu Advanced Metal Materials Industry Technology Research Institute (Chengdu) |
-| Cong Leng |M.E.  (2021-2024)  | CGN Cangnan Nuclear Power (Wenzhou) |
+| Cong Leng |M.E.  (2021-2024)  | Semiconductor Manufacturing International Corporation (Shanghai) |
 | Lingxiao Bai |M.E.  (2021-2024)  | Huawei (Dongguan) |
 | Chengfeng Sun |Ph.D.  (2017-2023)  | Commission of Economy and Information Technology, Jiulongpo District (Chongqing) |
 | Panshuai Ma |M.E.  (2020-2023)  | Mingyang Smart Energy (Zhongshan) |
