@@ -73,6 +73,8 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Energy Conversion and Management: X
   - Environmental Science and Pollution Research
   - Environmental Science & Technology
+  - Fuel
+  - International Journal of Hydrogen Energy
   - Journal of Alloys and Compounds
   - Journal of Catalysis
   - Journal of CO2 Utilization
