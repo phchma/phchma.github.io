@@ -73,6 +73,8 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Energy Conversion and Management: X
   - Environmental Science and Pollution Research
   - Environmental Science & Technology
+  - Fuel
+  - International Journal of Hydrogen Energy
   - Journal of Alloys and Compounds
   - Journal of Catalysis
   - Journal of CO2 Utilization
