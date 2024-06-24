@@ -70,6 +70,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - BioSystems
   - Chemical Engineering Communications
   - Chemical Engineering Science
+  - Chemical Engineering Research and Design
   - Energy Conversion and Management: X
   - Environmental Science and Pollution Research
   - Environmental Science & Technology
