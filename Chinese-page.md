@@ -70,6 +70,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - BioSystems
   - Chemical Engineering Communications
   - Chemical Engineering Science
+  - Chemical Engineering Research and Design
   - Energy Conversion and Management: X
   - Environmental Science and Pollution Research
   - Environmental Science & Technology
