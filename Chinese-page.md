@@ -68,6 +68,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - 学术期刊的同行评审
   - Applied Mathematical Modelling
   - BioSystems
+  - Chemical Engineering and Processing - Process Intensification
   - Chemical Engineering Communications
   - Chemical Engineering Science
   - Chemical Engineering Research and Design
@@ -88,6 +89,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Particuology
   - Particulate Science and Technology
   - Powder Technology
+  - Separation and Purification Technology
   - Silicon
   - Surface & Coatings Technology
   - Steel Research International
