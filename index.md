@@ -68,6 +68,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 - Reviewer for Scholarly Journals, such as
   - Applied Mathematical Modelling
   - BioSystems
+  - Chemical Engineering and Processing - Process Intensification
   - Chemical Engineering Communications
   - Chemical Engineering Science
   - Chemical Engineering Research and Design
@@ -88,6 +89,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Particuology
   - Particulate Science and Technology
   - Powder Technology
+  - Separation and Purification Technology
   - Silicon
   - Surface & Coatings Technology
   - Steel Research International
