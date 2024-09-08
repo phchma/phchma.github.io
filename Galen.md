@@ -16,6 +16,11 @@ Life is a journey filled with experiences, including success, disappointment, ha
 
 
 ### Galen特邀讲座 / Galen Invited Talk
+#### 2024年秋 / Fall of 2024
+> Hydrogen ironmaking – lessons from the past and challenges for the future
+
+given by **Dr. Tom Honeyands** from University of Newcastle
+
 #### 2024年春 / Spring of 2024
 > Beyond the textbook: Practical lessons from my career journey
 
