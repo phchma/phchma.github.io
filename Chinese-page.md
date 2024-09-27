@@ -95,7 +95,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Steel Research International
 
 ### 毕业学生 / Alumni
-| **乘客** |**重庆大学站**| **下一站** |
+
 | 廖哲晗 |硕士&博士 (2017-2024) | 成都先进金属材料产业技术研究院 (成都) |
 | 冷聪 |硕士 (2021-2024) | 中芯国际 (上海) |
 | 白凌霄 |硕士 (2021-2024) | 华为 (东莞) |
