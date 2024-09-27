@@ -95,7 +95,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Steel Research International
 
 ### Alumni
-| Passenger |CQU station| Next station |
+| Passenger |CQU station | Next station |
 | Zhehan Liao |M.E.&Ph.D.  (2017-2024)  | Chengdu Advanced Metal Materials Industry Technology Research Institute (Chengdu) |
 | Cong Leng |M.E.  (2021-2024)  | Semiconductor Manufacturing International Corporation (Shanghai) |
 | Lingxiao Bai |M.E.  (2021-2024)  | Huawei (Dongguan) |
