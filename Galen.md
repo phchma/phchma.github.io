@@ -8,6 +8,7 @@ Life is a journey filled with experiences, including success, disappointment, ha
 
 ### Galen特种奖学金获奖者 / Galen Special Scholarship Winner
 
+| 2024 | Mr. Qinghui Wu （武庆慧）    |
 | 2023 | Mr. Yufei Huang （黄宇飞）    |
 | 2022 | Mr. Yizhang Yang （杨宜璋）    |
 | 2021 | Mr. Junyi Deng （邓君一）    |
