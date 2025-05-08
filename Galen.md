@@ -17,6 +17,11 @@ Life is a journey filled with experiences, including success, disappointment, ha
 
 
 ### Galen特邀讲座 / Galen Invited Talk
+#### 2025年春 / Spring of 2025
+> Unraveling atomic-scale properties of oxide and mineral surfaces using noncontact AFM
+
+given by **Dr. Jan Balajka** from TU Wien
+
 #### 2024年秋 / Fall of 2024
 > Hydrogen ironmaking – lessons from the past and challenges for the future
 
