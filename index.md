@@ -96,6 +96,9 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 
 ### Alumni
 
+| Ruijing Feng |M.E.  (2022-2025)  | TBD |
+| Weicong Tu |M.E.  (2022-2025)  | Yangtze Memory Technologies Corporation (Wuhan) |
+| Yufei Huang |M.E.  (2022-2025)  | Huawei (Shanghai) |
 | Zhehan Liao |M.E.&Ph.D.  (2017-2024)  | Chengdu Advanced Metal Materials Industry Technology Research Institute (Chengdu) |
 | Cong Leng |M.E.  (2021-2024)  | Semiconductor Manufacturing International Corporation (Shanghai) |
 | Lingxiao Bai |M.E.  (2021-2024)  | Huawei (Dongguan) |
