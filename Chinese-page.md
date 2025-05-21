@@ -70,6 +70,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - BioSystems
   - Chemical Engineering and Processing - Process Intensification
   - Chemical Engineering Communications
+  - Chemical Engineering Journal
   - Chemical Engineering Science
   - Chemical Engineering Research and Design
   - Energy Conversion and Management: X
@@ -80,14 +81,19 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Journal of Alloys and Compounds
   - Journal of Catalysis
   - Journal of CO2 Utilization
+  - Journal of Industrial and Engineering Chemistry
   - Journal of Iron and Steel Research International
+  - Journal of Materials Science
   - Journal of Molecular Structure
   - Journal of Sustainable Metallurgy
+  - Materialia
   - Metal and Materials International
   - Metallurgical and Materials Transactions B
   - Metallurgical Research & Technology
+  - Next Sustainability
   - Particuology
   - Particulate Science and Technology
+  - Physics of Fluids
   - Powder Technology
   - Separation and Purification Technology
   - Silicon
@@ -96,6 +102,9 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 
 ### 毕业学生 / Alumni
 
+| 冯锐靖 |硕士 (2022-2025) | TBD（好事发生） |
+| 涂为聪 |硕士 (2022-2025) | 长江存储 (武汉) |
+| 黄宇飞 |硕士 (2022-2025) | 华为 (上海) |
 | 廖哲晗 |硕士&博士 (2017-2024) | 成都先进金属材料产业技术研究院 (成都) |
 | 冷聪 |硕士 (2021-2024) | 中芯国际 (上海) |
 | 白凌霄 |硕士 (2021-2024) | 华为 (东莞) |
