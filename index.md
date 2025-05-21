@@ -70,6 +70,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - BioSystems
   - Chemical Engineering and Processing - Process Intensification
   - Chemical Engineering Communications
+  - Chemical Engineering Journal
   - Chemical Engineering Science
   - Chemical Engineering Research and Design
   - Energy Conversion and Management: X
@@ -80,14 +81,19 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - Journal of Alloys and Compounds
   - Journal of Catalysis
   - Journal of CO2 Utilization
+  - Journal of Industrial and Engineering Chemistry
   - Journal of Iron and Steel Research International
+  - Journal of Materials Science
   - Journal of Molecular Structure
   - Journal of Sustainable Metallurgy
+  - Materialia
   - Metal and Materials International
   - Metallurgical and Materials Transactions B
   - Metallurgical Research & Technology
+  - Next Sustainability
   - Particuology
   - Particulate Science and Technology
+  - Physics of Fluids
   - Powder Technology
   - Separation and Purification Technology
   - Silicon
@@ -96,7 +102,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 
 ### Alumni
 
-| Ruijing Feng |M.E.  (2022-2025)  | TBD |
+| Ruijing Feng |M.E.  (2022-2025)  | TBD (Good Things Are About To Happen) |
 | Weicong Tu |M.E.  (2022-2025)  | Yangtze Memory Technologies Corporation (Wuhan) |
 | Yufei Huang |M.E.  (2022-2025)  | Huawei (Shanghai) |
 | Zhehan Liao |M.E.&Ph.D.  (2017-2024)  | Chengdu Advanced Metal Materials Industry Technology Research Institute (Chengdu) |
