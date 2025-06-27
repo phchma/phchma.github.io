@@ -102,7 +102,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 
 ### Alumni
 
-| Ruijing Feng |M.E.  (2022-2025)  | Seres (Chongqing) |
+| Ruijing Feng |M.E.  (2022-2025)  | Changan Automobile (Chongqing) |
 | Weicong Tu |M.E.  (2022-2025)  | Yangtze Memory Technologies Corporation (Wuhan) |
 | Yufei Huang |M.E.  (2022-2025)  | Huawei (Shanghai) |
 | Zhehan Liao |M.E.&Ph.D.  (2017-2024)  | Chengdu Advanced Metal Materials Industry Technology Research Institute (Chengdu) |
