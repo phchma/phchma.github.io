@@ -17,6 +17,11 @@ Life is a journey filled with experiences, including success, disappointment, ha
 
 
 ### Galen Invited Talk
+#### 2025年秋 / Fall of 2025
+> Sustainable alloy production via hydrogen-based reduction of metal oxides
+
+given by **Dr. Yan Ma** from TU Delft
+
 #### 2025年春 / Spring of 2025
 > Unraveling atomic-scale properties of oxide and mineral surfaces using noncontact AFM
 
