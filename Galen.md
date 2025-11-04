@@ -15,11 +15,6 @@ Life is a journey filled with experiences, including success, disappointment, ha
 | 2020 | Mr. Chengfeng Sun （孙成烽）    |
 | 2019 | Mr. Zhehan Liao （廖哲晗）    |
 
-### Galen Sharing Scholarship Winner (est. 2023)
-
-| 2024 | Ms. Ruijing Feng （冯锐靖）    |
-| 2023 | Mr. Chengfeng Sun （孙成烽）    |
-
 ### Galen Invited Talk  (est. 2022)
 #### 2025年秋 / Fall of 2025
 > Sustainable alloy production via hydrogen-based reduction of metal oxides
@@ -60,3 +55,8 @@ given by **Dr. Charley Wu** from University of Surrey
 > Development of blast furnace (BF) process model and its application to low-carbon BF ironmaking
 
 given by **Dr. Shibo Kuang** from Monash University
+
+### Galen Sharing Scholarship Winner (est. 2023)
+
+| 2024 | Ms. Ruijing Feng （冯锐靖）    |
+| 2023 | Mr. Chengfeng Sun （孙成烽）    |
