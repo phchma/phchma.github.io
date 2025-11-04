@@ -6,7 +6,7 @@ Life is a journey filled with experiences, including success, disappointment, ha
 
 [Return](./index.html)
 
-### Galen Special Scholarship Winner
+### Galen Special Scholarship Winner (est. 2019)
 
 | 2024 | Mr. Qinghui Wu （武庆慧）    |
 | 2023 | Mr. Yufei Huang （黄宇飞）    |
@@ -15,8 +15,12 @@ Life is a journey filled with experiences, including success, disappointment, ha
 | 2020 | Mr. Chengfeng Sun （孙成烽）    |
 | 2019 | Mr. Zhehan Liao （廖哲晗）    |
 
+### Galen Sharing Scholarship Winner (est. 2023)
 
-### Galen Invited Talk
+| 2024 | Ms. Ruijing Feng （冯锐靖）    |
+| 2023 | Mr. Chengfeng Sun （孙成烽）    |
+
+### Galen Invited Talk  (est. 2022)
 #### 2025年秋 / Fall of 2025
 > Sustainable alloy production via hydrogen-based reduction of metal oxides
 
