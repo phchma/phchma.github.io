@@ -81,11 +81,15 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Journal of Alloys and Compounds
   - Journal of Catalysis
   - Journal of CO2 Utilization
+  - Journal of Environmental Management
   - Journal of Industrial and Engineering Chemistry
   - Journal of Iron and Steel Research International
   - Journal of Materials Science
+  - Journal of Materials Research and Technology
   - Journal of Molecular Structure
   - Journal of Sustainable Metallurgy
+  - Journal of the Taiwan Institute of Chemical Engineers
+  - Korean Journal of Chemical Engineering
   - Materialia
   - Metal and Materials International
   - Metallurgical and Materials Transactions B
