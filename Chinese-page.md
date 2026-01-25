@@ -9,7 +9,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 ### 教育背景 / Education
 
 - [北京科技大学](https://www.ustb.edu.cn/)冶金与生态工程学院
-  - 钢铁冶金专业工学博士 (导师：[吴胜利](https://metall.ustb.edu.cn/szdw/xsjs/W/wsl/index.htm) 教授), 2007-2012
+  - 钢铁冶金专业工学博士 (导师：吴胜利 教授), 2007-2012
   - 冶金工程专业工学学士, 2003-2007
 
 ### 工作经历 / Work Experience
@@ -19,7 +19,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - 副教授, 2014-2019
   - 讲师, 2012-2014
 - [维也纳技术大学](http://www.tuwien.ac.at/)应用物理系
-  - 访问学者 (导师：[Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) 与 [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index) 教授), 2018-2019
+  - 访问学者 (导师：Ulrike Diebold 与 Gareth S. Parkinson 教授), 2018-2019
 
 ### 研究兴趣 / Research Interests 
 
