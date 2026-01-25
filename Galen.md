@@ -8,6 +8,7 @@ Life is a journey filled with experiences, including success, disappointment, ha
 
 ### Galen Special Scholarship Winner (est. 2019)
 
+| 2025 | Mr. Shuai Wang （汪帅）    |
 | 2024 | Mr. Qinghui Wu （武庆慧）    |
 | 2023 | Mr. Yufei Huang （黄宇飞）    |
 | 2022 | Mr. Yizhang Yang （杨宜璋）    |
@@ -58,5 +59,10 @@ given by **Dr. Shibo Kuang** from Monash University
 
 ### Galen Sharing Scholarship Winner (est. 2023)
 
+| 2025 | Mr. Qinghui Wu （武庆慧）    |
 | 2024 | Ms. Ruijing Feng （冯锐靖）    |
 | 2023 | Mr. Chengfeng Sun （孙成烽）    |
+
+### Galen Resilience Scholarship Winner (est. 2025)
+
+| 2025 | Mr. Qinghui Wu （武庆慧）    |
