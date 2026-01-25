@@ -19,7 +19,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   - Associate Professor, 2014-2019
   - Assistant Professor, 2012-2014
 - Institute of Applied Physics, [TU Wien](https://en.wikipedia.org/wiki/TU_Wien)
-  - Visiting Scholar (Advisor: Prof. [Ulrike Diebold](http://www.iap.tuwien.ac.at/www/surface/group/diebold/index) and Prof. [Gareth S. Parkinson](http://www.iap.tuwien.ac.at/www/surface/group/parkinson/index)), 2018-2019
+  - Visiting Scholar (Advisor: Prof. Ulrike Diebold and Prof. Gareth S. Parkinson), 2018-2019
 
 ### Research Interests
 
