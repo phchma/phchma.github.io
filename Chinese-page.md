@@ -34,7 +34,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
   -  在无料钟高炉炉顶布料过程
   -  在烧结布料过程
 
-- [谷歌学术上的发表记录](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)
+- [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)上的发表记录
 
 ### 一些成绩 / Awards and Honors 
 
