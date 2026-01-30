@@ -34,7 +34,7 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
   - in bell-less top blast furnace process
   - in sintering process
 
-- [Publications on Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN)
+- Publications on [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) or [ORCID](https://orcid.org/0000-0002-7565-9665)
 
 ### Awards and Honors
 
