@@ -17,6 +17,11 @@ Life is a journey filled with experiences, including success, disappointment, ha
 | 2019 | Mr. Zhehan Liao （廖哲晗）    |
 
 ### Galen Invited Talk  (est. 2022)
+#### 2026年春 / Spring of 2026
+> Surface microstructure and structure–function relationships
+
+given by **Dr. Zhichang Wang** from Peking University
+
 #### 2025年秋 / Fall of 2025
 > Sustainable alloy production via hydrogen-based reduction of metal oxides
 
