@@ -79,6 +79,10 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 
 ### Alumni
 
+| Haiqing Zhang |M.E.  (2023-2026)  | PhD candidate of Chongqing University (Chongqing) |
+| Fuchuan Zhang |M.E.  (2023-2026)  | BOE Technology (Chongqing) |
+| Chao Fang |M.E.  (2023-2026)  | Shennan Circuits (Thailand) |
+| Qinghui Wu |Ph.D.  (2022-2026)  | CISDI (Chongqing) |
 | Ruijing Feng |M.E.  (2022-2025)  | Changan Automobile (Chongqing) |
 | Weicong Tu |M.E.  (2022-2025)  | Yangtze Memory Technologies Corporation (Wuhan) |
 | Yufei Huang |M.E.  (2022-2025)  | Huawei (Shanghai) |
