@@ -9,45 +9,19 @@ Office: Room 903-5, Building 6, Science Center, No. 55 South University Town Roa
 
 [中文版](./Chinese-page.html)
 
-### Research
-
-My research focuses on the fundamental science and engineering of ironmaking processes, with particular interest in bridging phenomena across scales — from interfacial reactions and individual particles to packed beds and industrial reactors.
+### Research Interests
 
 #### Gas–solid reaction science
 
-We study the reduction of iron oxides by CO and H₂, with particular emphasis on how gas composition, phase evolution, defects, strain, and microstructure govern reaction kinetics and iron formation.
-
-Current interests include:
-
-* CO–H₂ interactions during iron oxide reduction
-* Wüstite (FeₓO) formation and reduction
-* Defects, oxygen vacancies, and lattice strain during reduction
-* Iron nucleation and whisker growth
-* Reaction kinetics and transport phenomena
+Iron oxide reduction by CO and H₂; wüstite; defects and strain; iron nucleation and whisker growth; reaction kinetics and transport phenomena.
 
 #### Granular flow and reactor-scale processes
 
-We use experiments and numerical methods to understand particle flow, segregation, gas–solid interactions, and reaction behavior in ironmaking reactors.
-
-Current interests include:
-
-* Burden distribution and segregation in blast furnaces
-* Granular flow in sintering and burden preparation
-* CFD–DEM modeling of gas–solid reactors
-* Hydrogen-based shaft furnace processes
-* Multi-scale coupling from particle behavior to reactor performance
+Burden distribution and segregation; sintering; CFD–DEM; blast furnaces and hydrogen-based shaft furnaces.
 
 #### Ironmaking burden engineering
 
-We investigate how the preparation, structure, and properties of ferrous burdens determine their behavior during reduction and high-temperature ironmaking.
-
-Current interests include:
-
-* Sinter, pellets, and cold-bonded briquettes
-* Low-carbon burden preparation and utilization of iron-bearing secondary resources
-* Reducibility and gas–solid transport in packed beds
-* Softening–melting–dripping behavior
-* Burden design for hydrogen-rich ironmaking
+Sinter, pellets and cold-bonded briquettes; burden preparation; reducibility; softening–melting–dripping behavior; hydrogen-rich ironmaking.
 
 **Publications:** [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
 
@@ -82,7 +56,7 @@ Current interests include:
 - Reviewer for the National Natural Science Foundation of China and regional research funding agencies
 - Reviewer for journals in metallurgy, materials science, chemical engineering, and energy
 
-### Former Students
+### Alumni
 
 | Haiqing Zhang |M.E.  (2023-2026)  | PhD candidate of Chongqing University (Chongqing) |
 | Fuchuan Zhang |M.E.  (2023-2026)  | BOE Technology (Chongqing) |
