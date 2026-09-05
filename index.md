@@ -82,7 +82,7 @@ Current interests include:
 - Reviewer for the National Natural Science Foundation of China and regional research funding agencies
 - Reviewer for journals in metallurgy, materials science, chemical engineering, and energy
 
-### Former Group Members
+### Former Students
 
 | Haiqing Zhang |M.E.  (2023-2026)  | PhD candidate of Chongqing University (Chongqing) |
 | Fuchuan Zhang |M.E.  (2023-2026)  | BOE Technology (Chongqing) |
