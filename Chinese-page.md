@@ -10,19 +10,16 @@ Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
 ### 研究兴趣 
 
-#### 铁氧化物气固还原反应
+- 铁氧化物气固还原反应
+  - CO 和 H₂ 条件下铁氧化物还原；FeₓO；缺陷与应变；金属铁形核与铁晶须生长；反应动力学与传递过程。
 
-CO 和 H₂ 条件下铁氧化物还原；FeₓO；缺陷与应变；金属铁形核与铁晶须生长；反应动力学与传递过程。
+- 颗粒流动与反应器过程
+  - 炉料分布与偏析；烧结过程；CFD–DEM；高炉与氢基竖炉。
 
-#### 颗粒流动与反应器过程
+- 炼铁炉料制备与性能
+  - 烧结矿、球团矿与冷压球团；炉料制备；还原性能；软化–熔融–滴落行为；富氢炼铁。
 
-炉料分布与偏析；烧结过程；CFD–DEM；高炉与氢基竖炉。
-
-#### 炼铁炉料制备与性能
-
-烧结矿、球团矿与冷压球团；炉料制备；还原性能；软化–熔融–滴落行为；富氢炼铁。
-
-#### 论文发表 [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)上的发表记录
+- 论文发表 [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)
 
 ### 教育经历
 
