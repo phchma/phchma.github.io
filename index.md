@@ -5,7 +5,7 @@ College of Materials Science and Engineering, Chongqing University
 
 Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
-Office: Room 903-5, Building 6, Science Center, No. 55 South University Town Road, Chongqing, China
+Office: Room 903-5, Building 6, Science Center, Chongqing University
 
 [中文版](./Chinese-page.html)
 
@@ -56,7 +56,7 @@ Sinter, pellets and cold-bonded briquettes; burden preparation; reducibility; so
 
 ### Alumni
 
-| Haiqing Zhang |M.E.  (2023-2026)  | PhD candidate of Chongqing University (Chongqing) |
+| Haiqing Zhang |M.E.  (2023-2026)  | Ph.D. candidate at Chongqing University (Chongqing) |
 | Fuchuan Zhang |M.E.  (2023-2026)  | BOE Technology (Chongqing) |
 | Chao Fang |M.E.  (2023-2026)  | Shennan Circuits (Thailand) |
 | Qinghui Wu |Ph.D.  (2022-2026)  | CISDI (Chongqing) |
@@ -69,7 +69,7 @@ Sinter, pellets and cold-bonded briquettes; burden preparation; reducibility; so
 | Chengfeng Sun |Ph.D.  (2017-2023)  | Commission of Economy and Information Technology, Jiulongpo District (Chongqing) |
 | Panshuai Ma |M.E.  (2020-2023)  | Mingyang Smart Energy (Zhongshan) |
 | Yizhang Yang |M.E.  (2019-2022)  | SinoTruk (Jinan) |
-| Junyi Deng |M.E.  (2018-2021)    | PhD candidate of Tohoku University (Sendai) |
+| Junyi Deng |M.E.  (2018-2021)    | Ph.D. candidate at Tohoku University (Sendai) |
 | Kaihui Ma |M.E.&Ph.D. (2016-2021)     | Pangang Group Research Institute (Chengdu) |
 | Yang Xu |M.E. (2015-2018)       | BYD Auto (Shenzhen)      | 
 | Dongdong Wang |M.E. (2014-2017) | Baosteel International (Shanghai)   | 
