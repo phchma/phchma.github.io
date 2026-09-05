@@ -1,16 +1,63 @@
-Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurgy
+*Exploring Metallurgy through PHysics, CHemistry, and MAthematics*
 
-**Email**: jxu at cqu.edu.cn / xujian.metall at gmail.com (_replace at with @_)
+Professor of Metallurgical Engineering
+College of Materials Science and Engineering, Chongqing University
+
+Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
 [中文版](./Chinese-page.html)
+
+### Research
+
+My research focuses on the fundamental science and engineering of ironmaking processes, with particular interest in bridging phenomena across scales — from interfacial reactions and individual particles to packed beds and industrial reactors.
+
+#### Gas–solid reaction science
+
+We study the reduction of iron oxides by CO and H₂, with particular emphasis on how gas composition, phase evolution, defects, strain, and microstructure govern reaction kinetics and iron formation.
+
+Current interests include:
+
+* CO–H₂ interactions during iron oxide reduction
+* Wüstite (FeₓO) formation and reduction
+* Defects, oxygen vacancies, and lattice strain during reduction
+* Iron nucleation and whisker growth
+* Reaction kinetics and transport phenomena
+
+#### Ironmaking burden engineering
+
+We investigate how the preparation, structure, and properties of ferrous burdens determine their behavior during reduction and high-temperature ironmaking.
+
+Current interests include:
+
+* Sinter, pellets, and cold-bonded briquettes
+* Low-carbon burden preparation and utilization of iron-bearing secondary resources
+* Reducibility and gas–solid transport in packed beds
+* Softening–melting–dripping behavior
+* Burden design for hydrogen-rich ironmaking
+
+#### Granular flow and reactor-scale processes
+
+We use experiments and numerical methods to understand particle flow, segregation, gas–solid interactions, and reaction behavior in ironmaking reactors.
+
+Current interests include:
+
+* Burden distribution and segregation in blast furnaces
+* Granular flow in sintering and burden preparation
+* CFD–DEM modeling of gas–solid reactors
+* Hydrogen-based shaft furnace processes
+* Multi-scale coupling from particle behavior to reactor performance
+
+**Publications:** [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
 
 ### Education
 
 - School of Metallurgical and Ecological Engineering, [University of Science and Technology, Beijing](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing)
   - Ph.D. in Ferrous Metallurgy (Advisor: Prof. Shengli Wu), 2007-2012
-  - Bachelor's degree in Metallurgical Engineering, 2003-2007
+  - B.Eng. in Metallurgical Engineering, 2003-2007
 
-### Work Experience
+### Selected Research
+
+### Academic Experience
 
 - College of Materials Science and Engineering, [Chongqing University](https://en.wikipedia.org/wiki/Chongqing_University)
   - Professor, 2019-present
@@ -19,22 +66,7 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - Institute of Applied Physics, [TU Wien](https://en.wikipedia.org/wiki/TU_Wien)
   - Visiting Scholar (Advisor: Prof. Ulrike Diebold and Prof. Gareth S. Parkinson), 2018-2019
 
-### Research Interests
-
-To bridge multi-scale gaps in either the gas-solid interfacial reaction system or the process granular segregation system. 
-
-- Gas-solid interfacial reaction
-  - in competition between CO and H2 in gaseous reductions of iron oxides
-  - in competition between reduction and slagging reactions at elevated temperatures
-  - for Iron whisker growth
-
-- Process granular segregation
-  - in bell-less top blast furnace process
-  - in sintering process
-
-- Publications on [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) or [ORCID](https://orcid.org/0000-0002-7565-9665)
-
-### Awards and Honors
+### Selected Honors
 
 *   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
 *   2021  Third Prize of Teaching Achievement Award of Chongqing 
@@ -53,29 +85,16 @@ To bridge multi-scale gaps in either the gas-solid interfacial reaction system o
 *   2006  PRCO Scholarship
 *   2005  POSCO Scholarship
 
-### Academic Activities
+### Academic Service
 
 - Member of Simulation & Virtual Process Engineering Committee (VPEC), the Chemical Industry and Engineering Society of China (CIESC), 2022.12-present
-- Subject Editor of [Iron Steel Vanadium Titanium](http://www.gtft.cn/indexen.htm) (in Chinese), 2023.7-2026.7
+- Subject Editor of [Iron Steel Vanadium Titanium](http://www.gtft.cn/indexen.htm) (in Chinese), 2023.7-present
 
-- Reviewer for Research Funding from
-  -  National Natural Science Foundation of China
-  -  Natural Science Foundation of Chongqing, China
-  -  Natural Science Foundation of Sichuan, China
+- Reviewer for the National Natural Science Foundation of China and regional research funding agencies
 
-- Reviewer for Scholarly Journals, such as
-  - Applied Mathematical Modelling
-  - Chemical Engineering Science
-  - Environmental Science & Technology
-  - Fuel
-  - International Journal of Hydrogen Energy
-  - Journal of Sustainable Metallurgy
-  - Metallurgical and Materials Transactions B
-  - Particuology
-  - Powder Technology
-  - Steel Research International
+- Reviewer for journals in metallurgy, materials science, chemical engineering, and energy
 
-### Alumni
+### Former Group Members
 
 | Haiqing Zhang |M.E.  (2023-2026)  | PhD candidate of Chongqing University (Chongqing) |
 | Fuchuan Zhang |M.E.  (2023-2026)  | BOE Technology (Chongqing) |
