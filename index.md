@@ -17,11 +17,11 @@ Iron oxide reduction by CO and H₂; wüstite; defects and strain; iron nucleati
 
 #### Granular flow and reactor-scale processes
 
-Burden distribution and segregation; sintering; CFD–DEM; blast furnaces and hydrogen-based shaft furnaces.
+Burden distribution and segregation; CFD–DEM; blast furnaces and hydrogen-based shaft furnaces.
 
 #### Ironmaking burden engineering
 
-Sinter, pellets and cold-bonded briquettes; burden preparation; reducibility; softening–melting–dripping behavior; hydrogen-rich ironmaking.
+Sinter, pellets and cold-bonded briquettes; burden preparation; reducibility; softening–melting–dripping behavior.
 
 #### Publications: [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
 
