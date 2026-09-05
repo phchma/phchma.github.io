@@ -1,7 +1,6 @@
 *Exploring Metallurgy through PHysics, CHemistry, and MAthematics*
 
-Professor of Metallurgical Engineering
-College of Materials Science and Engineering, Chongqing University
+Professor, College of Materials Science and Engineering, Chongqing University
 
 Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
