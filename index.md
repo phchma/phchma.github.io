@@ -51,13 +51,13 @@ Current interests include:
 
 **Publications:** [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
 
+### Selected Research
+
 ### Education
 
 - School of Metallurgical and Ecological Engineering, [University of Science and Technology, Beijing](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_Beijing)
   - Ph.D. in Ferrous Metallurgy (Advisor: Prof. Shengli Wu), 2007-2012
   - B.Eng. in Metallurgical Engineering, 2003-2007
-
-### Selected Research
 
 ### Academic Experience
 
@@ -71,29 +71,15 @@ Current interests include:
 ### Selected Honors
 
 *   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
-*   2021  Third Prize of Teaching Achievement Award of Chongqing 
-*   2020  Second Prize of Metallurgical Science and Technology Award
+*   2021  Third Prize of Teaching Achievement Award of Chongqing (6th)
+*   2020  Second Prize of Metallurgical Science and Technology Award (4th)
 *   2020  Chongqing Talents: Exceptional Young Talents Project
-*   2019  Metallurgical Dean Award of National Universities
-*   2018  Excellent Young Teacher of CQU
-*   2014  First Prize of Basic Teaching Skill Contest for Young Teacher of CQU
-*   2012  Excellent Graduate Student of Beijing Municipality
-*   2012  Excellent Doctoral Dissertation of USTB
-*   2011  Top Ten Academic Stars of USTB: Nomination Award
-*   2007  Excellent Student of Beijing Municipality
-*   2007  Excellent Bachelor Thesis of USTB
-*   2007  People’s Top Class Scholarship
-*   2006  Dean Award of School of Metallurgical and Ecological Engineering, USTB
-*   2006  PRCO Scholarship
-*   2005  POSCO Scholarship
 
 ### Academic Service
 
 - Member of Simulation & Virtual Process Engineering Committee (VPEC), the Chemical Industry and Engineering Society of China (CIESC), 2022.12-present
 - Subject Editor of [Iron Steel Vanadium Titanium](http://www.gtft.cn/indexen.htm) (in Chinese), 2023.7-present
-
 - Reviewer for the National Natural Science Foundation of China and regional research funding agencies
-
 - Reviewer for journals in metallurgy, materials science, chemical engineering, and energy
 
 ### Former Group Members
