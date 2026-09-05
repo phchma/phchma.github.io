@@ -43,7 +43,7 @@ Email：jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 *   2020  冶金科学技术奖二等奖（排名第4）
 *   2020  重庆英才：青年拔尖人才计划
 
-### 学术兼职与服务
+### 学术服务
 
 - 中国化工学会过程模拟及仿真专业委员会委员，2022.12至今
 - [《钢铁钒钛》](http://www.gtft.cn/news/introduction.htm)期刊主题编辑，2023.7至今
