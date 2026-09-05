@@ -19,7 +19,7 @@ Email：jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 #### 炼铁炉料制备与性能
 烧结矿、球团矿与冷压球团；炉料制备；还原性能；软化–熔融–滴落行为
 
-学术论文 [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)
+学术论文 [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
 
 ### 教育经历
 
