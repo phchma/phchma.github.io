@@ -11,7 +11,7 @@ Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 ### 研究兴趣 
 
 #### 铁氧化物气固还原反应
-CO 和 H₂ 条件下铁氧化物还原；FeₓO；缺陷与应变；金属铁形核与铁晶须生长；反应动力学与传递过程
+铁氧化物还原动力学与传递过程；FeₓO；缺陷与应变；金属铁形核与铁晶须生长
 
 #### 颗粒流动与反应器过程
 炉料分布与偏析；CFD–DEM；高炉与氢基竖炉
