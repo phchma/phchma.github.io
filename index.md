@@ -74,6 +74,6 @@ Publications: [Google Scholar](https://scholar.google.com/citations?user=A1FG06E
 | Dongdong Wang |M.E. (2014-2017) | Baosteel International (Shanghai)   | 
 | Zhaowen Hu |M.E.  (2013-2016)    | Huayou Cobalt  (Quzhou) |
 
-### Links
+### Beyond Research
 
 [Galen Funds](./Galen.html)
