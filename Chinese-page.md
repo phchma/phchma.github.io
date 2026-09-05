@@ -1,16 +1,36 @@
-Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurgy
+*Exploring Metallurgy through PHysics, CHemistry, and MAthematics*
 
-**Email**: jxu at cqu.edu.cn / xujian.metall at gmail.com (_replace at with @_)
+重庆大学 材料科学与工程学院 教授 · 博士生导师
+
+Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
+
+地址: 6号楼903-5，重庆大学虎溪科学中心，重庆市高新区大学城南路55号
 
 [English Ver.](./index.html)
 
-### 教育背景 / Education
+### 研究兴趣 / Research Interests 
+
+#### 铁氧化物气固还原反应
+
+CO 和 H₂ 条件下铁氧化物还原；FeₓO；缺陷与应变；金属铁形核与铁晶须生长；反应动力学与传递过程。
+
+#### 颗粒流动与反应器过程
+
+炉料分布与偏析；烧结过程；CFD–DEM；高炉与氢基竖炉。
+
+#### 炼铁炉料制备与性能
+
+烧结矿、球团矿与冷压球团；炉料制备；还原性能；软化–熔融–滴落行为；富氢炼铁。
+
+#### 论文发表 [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)上的发表记录
+
+### 教育经历
 
 - [北京科技大学](https://www.ustb.edu.cn/)冶金与生态工程学院
   - 钢铁冶金专业工学博士 (导师：吴胜利 教授), 2007-2012
   - 冶金工程专业工学学士, 2003-2007
 
-### 工作经历 / Work Experience
+### 工作经历
 
 - [重庆大学](https://www.cqu.edu.cn/)材料科学与工程学院
   - 教授, 2019至今
@@ -19,63 +39,21 @@ Use **PH**ysics, **CH**emistry, and **MA**thematics to explore funs in Metallurg
 - [维也纳技术大学](http://www.tuwien.ac.at/)应用物理系
   - 访问学者 (导师：Ulrike Diebold 与 Gareth S. Parkinson 教授), 2018-2019
 
-### 研究兴趣 / Research Interests 
-
-主要围绕气固界面反应和过程颗粒偏析两个系统开展多尺度研究。
-
-- 气固界面反应
-  - 铁氧化物气基还原中CO与H2的竞争关系
-  - 升温过程中还原与成渣反应的竞争关系
-  - 铁晶须的生长
-
-- 过程颗粒偏析
-  -  在无料钟高炉炉顶布料过程
-  -  在烧结布料过程
-
-- [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)上的发表记录
-
-### 一些成绩 / Awards and Honors 
+### 主要奖励 
 
 *   2021  重庆市高校教师教学创新大赛正高组二等奖 
 *   2021  重庆市教学成果奖三等奖（排名第6） 
 *   2020  冶金科学技术奖二等奖（排名第4）
 *   2020  重庆英才：青年拔尖人才计划
-*   2019  全国高校冶金院长奖
-*   2018  重庆大学优秀青年教师
-*   2014  重庆大学青年教师教学基本功比赛一等奖
-*   2012  北京市优秀毕业生
-*   2012  北科大优秀博士学位论文
-*   2011  北科大十大学术之星：提名奖
-*   2007  北京市三好学生
-*   2007  北科大优秀本科毕业设计（论文）
-*   2007  人民特等奖学金
-*   2006  北科大冶金与生态工程学院院长奖
-*   2006  濮耐PRCO奖学金
-*   2005  浦项POSCO奖学金
 
-### 学术活动 / Academic Activities
+### 学术兼职与服务
 
 - 中国化工学会过程模拟及仿真专业委员会委员，2022.12至今
-- [《钢铁钒钛》](http://www.gtft.cn/news/introduction.htm)期刊主题编辑，2023.7-2026.7
+- [《钢铁钒钛》](http://www.gtft.cn/news/introduction.htm)期刊主题编辑，2023.7至今
+- 国家自然科学基金及地方科研基金项目评审专家
+- 冶金、材料、化工与能源领域学术期刊审稿人
 
-- 研究基金的通讯评审
-  -  国家自然科学基金
-  -  重庆市自然科学基金
-  -  四川省自然科学基金
-
-- 学术期刊的同行评审
-  - Applied Mathematical Modelling
-  - Chemical Engineering Science
-  - Environmental Science & Technology
-  - Fuel
-  - International Journal of Hydrogen Energy
-  - Journal of Sustainable Metallurgy
-  - Metallurgical and Materials Transactions B
-  - Particuology
-  - Powder Technology
-  - Steel Research International
-
-### 毕业学生 / Alumni
+### 毕业学生
 
 | 张海庆 |硕士 (2023-2026) | 留组攻读博士学位 (重庆) |
 | 张福川 |硕士 (2023-2026) | 京东方 (重庆) |
