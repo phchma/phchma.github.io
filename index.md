@@ -37,7 +37,7 @@ Publications: [Google Scholar](https://scholar.google.com/citations?user=A1FG06E
   - Associate Professor, 2014-2019
   - Assistant Professor, 2012-2014
 - Institute of Applied Physics, [TU Wien](https://en.wikipedia.org/wiki/TU_Wien)
-  - Visiting Scholar (Advisor: Prof. Ulrike Diebold and Prof. Gareth S. Parkinson), 2018-2019
+  - Visiting Scholar (Hosts: Prof. Ulrike Diebold and Prof. Gareth S. Parkinson), 2018-2019
 
 ### Selected Honors
 
@@ -62,14 +62,14 @@ Publications: [Google Scholar](https://scholar.google.com/citations?user=A1FG06E
 | Ruijing Feng |M.E.  (2022-2025)  | Changan Automobile (Chongqing) |
 | Weicong Tu |M.E.  (2022-2025)  | Yangtze Memory Technologies Corporation (Wuhan) |
 | Yufei Huang |M.E.  (2022-2025)  | Huawei (Shanghai) |
-| Zhehan Liao |M.E.&Ph.D.  (2017-2024)  | Chengdu Advanced Metal Materials Industry Technology Research Institute (Chengdu) |
+| Zhehan Liao |M.E. & Ph.D.  (2017-2024)  | Chengdu Advanced Metal Materials Industry Technology Research Institute (Chengdu) |
 | Cong Leng |M.E.  (2021-2024)  | Semiconductor Manufacturing International Corporation (Shanghai) |
 | Lingxiao Bai |M.E.  (2021-2024)  | Huawei (Dongguan) |
 | Chengfeng Sun |Ph.D.  (2017-2023)  | Commission of Economy and Information Technology, Jiulongpo District (Chongqing) |
 | Panshuai Ma |M.E.  (2020-2023)  | Mingyang Smart Energy (Zhongshan) |
 | Yizhang Yang |M.E.  (2019-2022)  | SinoTruk (Jinan) |
 | Junyi Deng |M.E.  (2018-2021)    | Ph.D. candidate at Tohoku University (Sendai) |
-| Kaihui Ma |M.E.&Ph.D. (2016-2021)     | Pangang Group Research Institute (Chengdu) |
+| Kaihui Ma |M.E. & Ph.D. (2016-2021)     | Pangang Group Research Institute (Chengdu) |
 | Yang Xu |M.E. (2015-2018)       | BYD Auto (Shenzhen)      | 
 | Dongdong Wang |M.E. (2014-2017) | Baosteel International (Shanghai)   | 
 | Zhaowen Hu |M.E.  (2013-2016)    | Huayou Cobalt  (Quzhou) |
