@@ -8,7 +8,7 @@ Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
 [English Ver.](./index.html)
 
-### 研究兴趣 / Research Interests 
+### 研究兴趣 
 
 #### 铁氧化物气固还原反应
 
@@ -74,6 +74,6 @@ CO 和 H₂ 条件下铁氧化物还原；FeₓO；缺陷与应变；金属铁�
 | 王冬东 |硕士 (2014-2017) | 宝钢国际 (上海) | 
 | 胡招文 |硕士 (2013-2016) | 华友钴业 (衢州) |
 
-### 链接 / Links
+### 链接
 
 [Galen Funds](./Galen.html)
