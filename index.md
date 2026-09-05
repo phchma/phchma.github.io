@@ -23,9 +23,7 @@ Burden distribution and segregation; sintering; CFD–DEM; blast furnaces and hy
 
 Sinter, pellets and cold-bonded briquettes; burden preparation; reducibility; softening–melting–dripping behavior; hydrogen-rich ironmaking.
 
-**Publications:** [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
-
-### Selected Research
+#### Publications: [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
 
 ### Education
 
