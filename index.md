@@ -23,18 +23,6 @@ Current interests include:
 * Iron nucleation and whisker growth
 * Reaction kinetics and transport phenomena
 
-#### Ironmaking burden engineering
-
-We investigate how the preparation, structure, and properties of ferrous burdens determine their behavior during reduction and high-temperature ironmaking.
-
-Current interests include:
-
-* Sinter, pellets, and cold-bonded briquettes
-* Low-carbon burden preparation and utilization of iron-bearing secondary resources
-* Reducibility and gas–solid transport in packed beds
-* Softening–melting–dripping behavior
-* Burden design for hydrogen-rich ironmaking
-
 #### Granular flow and reactor-scale processes
 
 We use experiments and numerical methods to understand particle flow, segregation, gas–solid interactions, and reaction behavior in ironmaking reactors.
@@ -46,6 +34,18 @@ Current interests include:
 * CFD–DEM modeling of gas–solid reactors
 * Hydrogen-based shaft furnace processes
 * Multi-scale coupling from particle behavior to reactor performance
+
+#### Ironmaking burden engineering
+
+We investigate how the preparation, structure, and properties of ferrous burdens determine their behavior during reduction and high-temperature ironmaking.
+
+Current interests include:
+
+* Sinter, pellets, and cold-bonded briquettes
+* Low-carbon burden preparation and utilization of iron-bearing secondary resources
+* Reducibility and gas–solid transport in packed beds
+* Softening–melting–dripping behavior
+* Burden design for hydrogen-rich ironmaking
 
 **Publications:** [Google Scholar](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=EN) · [ORCID](https://orcid.org/0000-0002-7565-9665)
 
