@@ -5,6 +5,8 @@ College of Materials Science and Engineering, Chongqing University
 
 Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
+Office: Room 903-5, Building 6, Science Center, No. 55 South University Town Road, Chongqing, China
+
 [中文版](./Chinese-page.html)
 
 ### Research
