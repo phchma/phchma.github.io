@@ -4,7 +4,7 @@
 
 Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
-地址: 6号楼903-5，重庆大学虎溪科学中心，重庆市高新区大学城南路55号
+地址: 重庆市高新区大学城南路55号重庆大学虎溪科学中心6号楼903-5
 
 [English Ver.](./index.html)
 
