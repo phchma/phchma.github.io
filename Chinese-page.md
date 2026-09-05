@@ -4,7 +4,7 @@
 
 Email: jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 
-地址: 重庆市高新区大学城南路55号重庆大学虎溪科学中心6号楼903-5
+地址: 重庆大学虎溪科学中心6号楼903-5
 
 [English Ver.](./index.html)
 
@@ -19,7 +19,7 @@ CO 和 H₂ 条件下铁氧化物还原；FeₓO；缺陷与应变；金属铁�
 #### 炼铁炉料制备与性能
 烧结矿、球团矿与冷压球团；炉料制备；还原性能；软化–熔融–滴落行为
 
-- 论文发表 [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)
+#### 论文发表 [谷歌学术](https://scholar.google.com/citations?user=A1FG06EAAAAJ&hl=ZH_CN)或[ORCID](https://orcid.org/0000-0002-7565-9665)
 
 ### 教育经历
 
