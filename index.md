@@ -13,7 +13,7 @@ Office: Room 903-5, Building 6, Science Center, Chongqing University
 
 #### Gas–solid reaction science
 
-Iron oxide reduction by CO and H₂; wüstite; defects and strain; iron nucleation and whisker growth; reaction kinetics and transport phenomena.
+Iron oxide reduction kinetics and transport phenomena; wüstite; defects and strain; iron nucleation and whisker growth.
 
 #### Granular flow and reactor-scale processes
 
