@@ -71,6 +71,6 @@ Email：jxu at cqu.edu.cn / xujian.metall at gmail.com (replace "at" with "@")
 | 王冬东 |硕士 (2014-2017) | 宝钢国际 (上海) | 
 | 胡招文 |硕士 (2013-2016) | 华友钴业 (衢州) |
 
-### 链接
+### 科研之外
 
 [Galen Funds](./Galen.html)
