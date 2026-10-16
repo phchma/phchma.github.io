@@ -41,6 +41,7 @@ Publications: [Google Scholar](https://scholar.google.com/citations?user=A1FG06E
 
 ### Selected Honors
 
+*   2026  First Prize of Metallurgical Science and Technology Award (5th)
 *   2021  Second Prize of Teacher Teaching Innovation Contest of Chongqing 
 *   2021  Third Prize of Teaching Achievement Award of Chongqing (6th)
 *   2020  Second Prize of Metallurgical Science and Technology Award (4th)
